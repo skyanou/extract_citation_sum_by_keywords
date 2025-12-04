@@ -1,0 +1,2954 @@
+The TRMM multisatellite precipitation analysis (TMPA): Quasi-global, multiyear,
+combined-sensor precipitation estimates at fine scales
+GJ Huffman, DT Bolvin, EJ Nelkin, DB Wolff, RF Adler, G Gu, Y Hong, ...
+Journal of Hydrometeorology 8 (1), 38-55
+8100 2007
+Precipitation estimation from remotely sensed imagery using an artificial neural network
+cloud classification system
+Y Hong, KL Hsu, S Sorooshian, X Gao
+Journal of Applied Meteorology 43 (12), 1834-1853
+1071 2004
+Spatio-temporal dynamics and evolution of land use change and landscape pattern in
+response to rapid urbanization
+JS Deng, K Wang, Y Hong, JG Qi
+Landscape and urban planning 92 (3-4), 187-198
+956 2009
+Evaluation of TRMM Multisatellite Precipitation Analysis (TMPA) and its utility in
+hydrologic prediction in the La Plata Basin
+F Su, Y Hong, DP Lettenmaier
+Journal of hydrometeorology 9 (4), 622-640
+658 2008
+Evaluation of GPM Day-1 IMERG and TMPA Version-7 legacy products over Mainland
+China at multiple spatiotemporal scales
+G Tang, Y Ma, D Long, L Zhong, Y Hong
+Journal of hydrology 533, 152-167
+587 2016
+Have satellite precipitation products improved over last two decades? A comprehensive
+comparison of GPM IMERG with nine satellite and reanalysis datasets
+G Tang, MP Clark, SM Papalexiou, Z Ma, Y Hong
+Remote sensing of environment 240, 111697
+572 2020
+A global landslide catalog for hazard applications: method, results, and limitations
+DB Kirschbaum, R Adler, Y Hong, S Hill, A Lerner-Lam
+Natural Hazards 52 (3), 561-575
+543 2010
+Vegetation greening and climate change promote multidecadal rises of global land
+evapotranspiration
+K Zhang, JS Kimball, RR Nemani, SW Running, Y Hong, JJ Gourley, Z Yu
+Scientific reports 5 (1), 15956
+466 2015
+Drought and flood monitoring for a large karst plateau in Southwest China using extended
+GRACE data
+D Long, Y Shen, A Sun, Y Hong, L Longuevergne, Y Yang, B Li, L Chen
+Remote Sensing of Environment 155, 145-160
+459 2014
+Statistical and hydrological evaluation of TRMM-based Multi-satellite Precipitation
+Analysis over the Wangchu Basin of Bhutan: Are the latest satellite precipitation
+products …
+X Xue, Y Hong, AS Limaye, JJ Gourley, GJ Huffman, SI Khan, C Dorji, ...
+Journal of Hydrology 499, 91-99
+399 2013
+Satellite remote sensing and hydrologic modeling for flood inundation mapping in Lake
+Victoria basin: Implications for hydrologic prediction in ungauged basins
+SI Khan, Y Hong, J Wang, KK Yilmaz, JJ Gourley, RF Adler, ...
+IEEE Transactions on Geoscience and Remote Sensing 49 (1), 85-95
+391 2010
+Use of satellite remote sensing data in the mapping of global landslide susceptibility
+Y Hong, R Adler, G Huffman
+Natural hazards 43 (2), 245-256
+355 2007
+Hydrologic evaluation of Multisatellite Precipitation Analysis standard precipitation
+products in basins beyond its inclined latitude band: A case study in Laohahe basin,
+China
+B Yong, LL Ren, Y Hong, JH Wang, JJ Gourley, SH Jiang, X Chen, ...
+Water Resources Research 46 (7)
+351 2010
+Comprehensive evaluation of multi-satellite precipitation products with a dense rain gauge
+network and optimally merging their simulated hydrological flows using the Bayesian …
+S Jiang, L Ren, Y Hong, B Yong, X Yang, F Yuan, M Ma
+Journal of Hydrology 452, 213-225
+339 2012
+Global analysis of spatiotemporal variability in merged total water storage changes using
+multiple GRACE products and global hydrological models
+D Long, Y Pan, J Zhou, Y Chen, X Hou, Y Hong, BR Scanlon, ...
+Remote sensing of environment 192, 198-216
+336 2017
+Have GRACE satellites overestimated groundwater depletion in the Northwest India
+Aquifer?
+D Long, X Chen, BR Scanlon, Y Wada, Y Hong, VP Singh, Y Chen, ...
+Scientific reports 6 (1), 24398
+317 2016
+The coupled routing and excess storage (CREST) distributed hydrological model
+J Wang, Y Hong, L Li, JJ Gourley, SI Khan, KK Yilmaz, RF Adler, ...
+Hydrological sciences journal 56 (1), 84-98
+296 2011
+Uncertainty quantification of satellite precipitation estimation and Monte Carlo assessment
+of the error propagation into hydrologic response
+Y Hong, K Hsu, H Moradkhani, S Sorooshian
+Water resources research 42 (8)
+296 2006
+Statistical and hydrological comparisons between TRMM and GPM level-3 products over
+a midlatitude basin: Is day-1 IMERG a good successor for TMPA 3B42V7?
+G Tang, Z Zeng, D Long, X Guo, B Yong, W Zhang, Y Hong
+Journal of Hydrometeorology 17 (1), 121-137
+292 2016
+Evaluation of the potential of NASA multi-satellite precipitation analysis in global landslide
+hazard assessment
+Y Hong, R Adler, G Huffman
+Geophysical Research Letters 33 (22)
+287 2006
+Inundation extent mapping by synthetic aperture radar: A review
+X Shen, D Wang, K Mao, E Anagnostou, Y Hong
+Remote Sensing 11 (7), 879
+286 2019
+Evaluation of PERSIANN-CCS rainfall measurement using the NAME event rain gauge
+network
+Y Hong, D Gochis, J Cheng, K Hsu, S Sorooshian
+Journal of hydrometeorology 8 (3), 469-482
+285 2007
+Deriving scaling factors using a global hydrological model to restore GRACE total water
+storage changes for China's Yangtze River Basin
+D Long, Y Yang, Y Wada, Y Hong, W Liang, Y Chen, B Yong, A Hou, ...
+Remote Sensing of Environment 168, 177-193
+282 2015
+Global view of real-time TRMM multisatellite precipitation analysis: Implications for its
+successor global precipitation measurement mission
+B Yong, D Liu, JJ Gourley, Y Tian, GJ Huffman, L Ren, Y Hong
+Bulletin of the American Meteorological Society 96 (2), 283-296
+275 2015
+Early assessment of integrated multi-satellite retrievals for global precipitation
+measurement over China
+H Guo, S Chen, A Bao, A Behrangi, Y Hong, F Ndayisaba, J Hu, ...
+Atmospheric Research 176, 121-133
+273 2016
+Multi-scale evaluation of high-resolution multi-sensor blended global precipitation
+products over the Yangtze River
+Z Li, D Yang, Y Hong
+Journal of Hydrology 500, 157-169
+263 2013
+Diurnal variability of tropical rainfall retrieved from combined GOES and TRMM satellite
+information
+S Sorooshian, X Gao, K Hsu, RA Maddox, Y Hong, HV Gupta, B Imam
+Journal of climate 15 (9), 983-1001
+263 2002
+Evaluation of global flood detection using satellite-based rainfall and a hydrologic model
+H Wu, RF Adler, Y Hong, Y Tian, F Policelli
+Journal of Hydrometeorology 13 (4), 1268-1284
+257 2012
+Bayesian multimodel estimation of global terrestrial latent heat flux from eddy covariance,
+meteorological, and satellite observations
+Y Yao, S Liang, X Li, Y Hong, JB Fisher, N Zhang, J Chen, J Cheng, ...
+Journal of Geophysical Research: Atmospheres 119 (8), 4521-4545
+248 2014
+Comparison of PERSIANN and V7 TRMM Multi-satellite Precipitation Analysis (TMPA)
+products with rain gauge data over Iran
+S Moazami, S Golian, MR Kavianpour, Y Hong
+International journal of remote sensing 34 (22), 8156-8171
+248 2013
+Similarity and difference of the two successive V6 and V7 TRMM multisatellite
+precipitation analysis performance over China
+S Chen, Y Hong, Q Cao, JJ Gourley, PE Kirstetter, B Yong, Y Tian, ...
+Journal of Geophysical Research: Atmospheres 118 (23), 13,060-13,074
+241 2013
+A digitized global flood inventory (1998–2008): compilation and preliminary results
+P Adhikari, Y Hong, KR Douglas, DB Kirschbaum, J Gourley, R Adler, ...
+Natural Hazards 55 (2), 405-422
+241 2010
+Flood and landslide applications of near real-time satellite rainfall products
+Y Hong, RF Adler, A Negri, GJ Huffman
+Natural Hazards 43 (2), 285-294
+239 2007
+Improved modeling of snow and glacier melting by a progressive two-stage calibration
+strategy with GRACE and multisource data: How snow and glacier meltwater contributes
+to the …
+X Chen, D Long, Y Hong, C Zeng, D Yan
+Water Resources Research 53 (3), 2431-2466
+237 2017
+Examining the influence of river–lake interaction on the drought and water resources in
+the Poyang Lake basin
+Z Zhang, X Chen, CY Xu, Y Hong, J Hardy, Z Sun
+Journal of Hydrology 522, 510-521
+230 2015
+A first approach to global runoff simulation using satellite rainfall estimation
+Y Hong, RF Adler, F Hossain, S Curtis, GJ Huffman
+Water Resources Research 43 (8)
+228 2007
+Observed changes in flow regimes in the Mekong River basin
+D Li, D Long, J Zhao, H Lu, Y Hong
+Journal of Hydrology 551, 217-232
+221 2017
+Evaluation of the real-time TRMM-based multi-satellite precipitation analysis for an
+operational flood prediction system in Nzoia Basin, Lake Victoria, Africa
+L Li, Y Hong, J Wang, RF Adler, FS Policelli, S Habib, D Irwn, T Korme, ...
+Natural hazards 50 (1), 109-123
+216 2009
+The FLASH project: Improving the tools for flash flood monitoring and prediction across
+the United States
+JJ Gourley, ZL Flamig, H Vergara, PE Kirstetter, RA Clark III, E Argyle, ...
+Bulletin of the American Meteorological Society 98 (2), 361-372
+211 2017
+Similarity and error intercomparison of the GPM and its predecessor-TRMM multisatellite
+precipitation analysis using the best available hourly gauge network over the Tibetan …
+Y Ma, G Tang, D Long, B Yong, L Zhong, W Wan, Y Hong
+Remote sensing 8 (7), 569
+193 2016
+The third atmospheric scientific experiment for understanding the earth–atmosphere
+coupled system over the Tibetan Plateau and its effects
+P Zhao, X Xu, F Chen, X Guo, X Zheng, L Liu, Y Hong, Y Li, Z La, H Peng, ...
+Bulletin of the American Meteorological Society 99 (4), 757-776
+188 2018
+Multiregional satellite precipitation products evaluation over complex terrain
+Y Derin, E Anagnostou, A Berne, M Borga, B Boudevillain, W Buytaert, ...
+Journal of Hydrometeorology 17 (6), 1817-1836
+186 2016
+Impacts of climate change and human activities on the flow regime of the dammed
+Lancang River in Southwest China
+Z Han, D Long, Y Fang, A Hou, Y Hong
+Journal of Hydrology 570, 96-105
+185 2019
+Prototyping an experimental early warning system for rainfall-induced landslides in
+Indonesia using satellite remote sensing and geospatial datasets
+Z Liao, Y Hong, J Wang, H Fukuoka, K Sassa, D Karnawati, F Fathani
+Landslides 7 (3), 317-324
+181 2010
+VSDI: a visible and shortwave infrared drought index for monitoring soil and vegetation
+moisture based on optical remote sensing
+N Zhang, Y Hong, Q Qin, L Liu
+International journal of remote sensing 34 (13), 4585-4609
+179 2013
+Assessment of evolving TRMM-based multisatellite real-time precipitation estimation
+methods and their impacts on hydrologic prediction in a high latitude basin
+B Yong, Y Hong, LL Ren, JJ Gourley, GJ Huffman, X Chen, W Wang, ...
+Journal of Geophysical Research: Atmospheres 117 (D9)
+177 2012
+Intercomparison of the Version-6 and Version-7 TMPA precipitation products over high
+and low latitudes basins with independent gauge networks: Is the newer version better
+in …
+B Yong, B Chen, JJ Gourley, L Ren, Y Hong, X Chen, W Wang, S Chen, ...
+Journal of Hydrology 508, 77-87
+165 2014
+Performance of optimally merged multisatellite precipitation products using the dynamic
+Bayesian model averaging scheme over the Tibetan Plateau
+Y Ma, Y Hong, Y Chen, Y Yang, G Tang, Y Yao, D Long, C Li, Z Han, ...
+Journal of Geophysical Research: Atmospheres 123 (2), 814-834
+164 2018
+Hydro-climatological drought analyses and projections using meteorological and
+hydrological drought indices: a case study in Blue River Basin, Oklahoma
+L Liu, Y Hong, CN Bednarczyk, B Yong, MA Shafer, R Riley, JE Hocker
+Water resources management 26 (10), 2761-2779
+164 2012
+Analysis of flash flood disaster characteristics in China from 2011 to 2015
+B He, X Huang, M Ma, Q Chang, Y Tu, Q Li, K Zhang, Y Hong
+Natural Hazards 90 (1), 407-420
+162 2018
+Discharge estimation in high-mountain regions with improved methods using multisource
+remote sensing: A case study of the Upper Brahmaputra River
+Q Huang, D Long, M Du, C Zeng, G Qiao, X Li, A Hou, Y Hong
+Remote sensing of environment 219, 115-134
+161 2018
+Cross-evaluation of ground-based, multi-satellite and reanalysis precipitation products:
+Applicability of the Triple Collocation method across Mainland China
+C Li, G Tang, Y Hong
+Journal of Hydrology 562, 71-83
+161 2018
+Toward a framework for systematic error modeling of spaceborne precipitation radar with
+NOAA/NSSL ground radar–based National Mosaic QPE
+PE Kirstetter, Y Hong, JJ Gourley, S Chen, Z Flamig, J Zhang, ...
+Journal of Hydrometeorology 13 (4), 1285-1300
+158 2012
+Evaluation of the successive V6 and V7 TRMM multisatellite precipitation analysis over
+the Continental United States
+S Chen, Y Hong, JJ Gourley, GJ Huffman, Y Tian, Q Cao, B Yong, ...
+Water Resources Research 49 (12), 8174-8186
+157 2013
+Mapping flash flood severity in the United States
+M Saharia, PE Kirstetter, H Vergara, JJ Gourley, Y Hong, M Giroud
+Journal of Hydrometeorology 18 (2), 397-411
+155 2017
+Accounting for spatiotemporal errors of gauges: A critical step to evaluate gridded
+precipitation products
+G Tang, A Behrangi, D Long, C Li, Y Hong
+Journal of hydrology 559, 294-306
+154 2018
+A unified flash flood database across the United States
+JJ Gourley, Y Hong, ZL Flamig, A Arthur, R Clark, M Calianno, I Ruin, ...
+Bulletin of the American Meteorological Society 94 (6), 799-805
+154 2013
+A lake data set for the Tibetan Plateau from the 1960s, 2005, and 2014
+W Wan, D Long, Y Hong, Y Ma, Y Yuan, P Xiao, H Duan, Z Han, X Gu
+Scientific Data 3 (1), 1-13
+152 2016
+Can artificial intelligence and data-driven machine learning models match or even replace
+process-driven hydrologic models for streamflow simulation?: A case study of four …
+T Kim, T Yang, S Gao, L Zhang, Z Ding, X Wen, JJ Gourley, Y Hong
+Journal of Hydrology 598, 126423
+145 2021
+A two-step framework for reconstructing remotely sensed land surface temperatures
+contaminated by cloud
+C Zeng, D Long, H Shen, P Wu, Y Cui, Y Hong
+ISPRS Journal of Photogrammetry and Remote Sensing 141, 30-45
+145 2018
+Merging multiple precipitation sources for flash flood forecasting
+YM Chiang, KL Hsu, FJ Chang, Y Hong, S Sorooshian
+Journal of Hydrology 340 (3-4), 183-196
+143 2007
+Recent global performance of the Climate Hazards group Infrared Precipitation (CHIRP)
+with Stations (CHIRPS)
+Z Shen, B Yong, JJ Gourley, W Qi, D Lu, J Liu, L Ren, Y Hong, J Zhang
+Journal of Hydrology 591, 125284
+142 2020
+Multiscale hydrologic applications of the latest satellite precipitation products in the
+Yangtze River Basin using a distributed hydrologic model
+Z Li, D Yang, B Gao, Y Jiao, Y Hong, T Xu
+Journal of Hydrometeorology 16 (1), 407-426
+140 2015
+Efficient ends-out gene targeting in Drosophila
+J Huang, W Zhou, AM Watson, YN Jan, Y Hong
+Genetics 180 (1), 703-707
+138 2008
+Evaluation of a preliminary satellite-based landslide hazard algorithm using global
+landslide inventories
+DB Kirschbaum, R Adler, Y Hong, A Lerner-Lam
+Natural Hazards and Earth System Sciences 9 (3), 673-686
+134 2009
+Statistical assessment and hydrological utility of the latest multi-satellite precipitation
+analysis IMERG in Ganjiang River basin
+N Li, G Tang, P Zhao, Y Hong, Y Gou, K Yang
+Atmospheric research 183, 212-223
+133 2017
+Comprehensive evaluation of four high-resolution satellite precipitation products under
+diverse climate conditions in Iran
+S Moazami, S Golian, Y Hong, C Sheng, MR Kavianpour
+Hydrological Sciences Journal 61 (2), 420-440
+133 2016
+Water balance-based actual evapotranspiration reconstruction from ground and satellite
+observations over the conterminous U nited S tates
+Z Wan, K Zhang, X Xue, Z Hong, Y Hong, JJ Gourley
+Water Resources Research 51 (8), 6485-6499
+133 2015
+Comparison of TRMM 2A25 products, version 6 and version 7, with NOAA/NSSL ground
+radar–based National Mosaic QPE
+PE Kirstetter, Y Hong, JJ Gourley, M Schwaller, W Petersen, J Zhang
+Journal of Hydrometeorology 14 (2), 661-669
+131 2013
+Comparison analysis of six purely satellite-derived global precipitation estimates
+H Chen, B Yong, Y Shen, J Liu, Y Hong, J Zhang
+Journal of Hydrology 581, 124376
+129 2020
+Quantitative assessment of climate change and human impacts on long-term hydrologic
+response: a case study in a sub-basin of the Yellow River, China
+J Wang, Y Hong, J Gourley, P Adhikari, L Li, F Su
+International journal of Climatology 30 (14), 2130-2137
+129 2010
+To what extent is the day 1 GPM IMERG satellite precipitation estimate improved as
+compared to TRMM TMPA-RT?
+AS Gebregiorgis, PE Kirstetter, YE Hong, JJ Gourley, GJ Huffman, ...
+Journal of Geophysical Research: Atmospheres 123 (3), 1694-1707
+127 2018
+Advances in landslide nowcasting: evaluation of a global and regional modeling approach
+DB Kirschbaum, R Adler, Y Hong, S Kumar, C Peters-Lidard, ...
+Environmental Earth Sciences 66 (6), 1683-1696
+127 2012
+Evaluation of TRIGRS (transient rainfall infiltration and grid-based regional slope-stability
+analysis)’s predictive skill for hurricane-triggered landslides: a case study in …
+Z Liao, Y Hong, D Kirschbaum, RF Adler, JJ Gourley, R Wooten
+Natural hazards 58 (1), 325-339
+126 2011
+Performance evaluation of radar and satellite rainfalls for Typhoon Morakot over Taiwan:
+Are remote-sensing products ready for gauge denial scenario of extreme events?
+S Chen, Y Hong, Q Cao, PE Kirstetter, JJ Gourley, Y Qi, J Zhang, ...
+Journal of hydrology 506, 4-13
+125 2013
+Probabilistic precipitation rate estimates with ground-based radar networks
+PE Kirstetter, JJ Gourley, Y Hong, J Zhang, S Moazamigoodarzi, ...
+Water Resources Research 51 (3), 1422-1442
+124 2015
+An experimental global prediction system for rainfall-triggered landslides using satellite
+remote sensing and geospatial datasets
+Y Hong, RF Adler, G Huffman
+IEEE Transactions on Geoscience and Remote Sensing 45 (6), 1671-1680
+124 2007
+AIMERG: A new Asian precipitation dataset (0.1/half-hourly, 2000–2015) by calibrating
+GPM IMERG at daily scale using APHRODITE
+Z Ma, J Xu, S Zhu, G Tang, Y Yang, Z Shi, Y Hong
+Earth System Science Data Discussions 2020, 1-52
+123 2020
+Estimation of global SCS curve numbers using satellite remote sensing and geospatial
+data
+Y Hong, RF Adler
+International Journal of Remote Sensing 29 (2), 471-477
+118 2008
+CONUS-wide evaluation of National Weather Service flash flood guidance products
+RA Clark, JJ Gourley, ZL Flamig, Y Hong, E Clark
+Weather and Forecasting 29 (2), 377-392
+116 2014
+Characterization of floods in the United States
+M Saharia, PE Kirstetter, H Vergara, JJ Gourley, Y Hong
+Journal of Hydrology 548, 524-535
+115 2017
+Susceptibility evaluation and mapping of China’s landslides based on multi-source data
+C Liu, W Li, H Wu, P Lu, K Sang, W Sun, W Chen, Y Hong, R Li
+Natural Hazards 69 (3), 1477-1495
+115 2013
+An improved approach to monitoring Brahmaputra River water levels using retracked
+altimetry data
+Q Huang, D Long, M Du, C Zeng, X Li, A Hou, Y Hong
+Remote Sensing of Environment 211, 112-128
+114 2018
+A cloud-based global flood disaster community cyber-infrastructure: Development and
+demonstration
+Z Wan, Y Hong, S Khan, J Gourley, Z Flamig, D Kirschbaum, G Tang
+Environmental modelling & software 58, 86-94
+112 2014
+Evaluation of tools used for monitoring and forecasting flash floods in the United States
+JJ Gourley, JM Erlingis, Y Hong, EB Wells
+Weather and forecasting 27 (1), 158-173
+112 2012
+Validation and reconstruction of FY-3B/MWRI soil moisture using an artificial neural
+network based on reconstructed MODIS optical products over the Tibetan Plateau
+Y Cui, D Long, Y Hong, C Zeng, J Zhou, Z Han, R Liu, W Wan
+Journal of Hydrology 543, 242-254
+110 2016
+Predicting global landslide spatiotemporal distribution: integrating landslide susceptibility
+zoning techniques and real-time satellite rainfall estimates
+H Yang, RF Adler
+International Journal of Sediment Research 23 (3), 249-257
+110 2008
+Assessing the potential of satellite-based precipitation estimates for flood frequency
+analysis in ungauged or poorly gauged tributaries of China’s Yangtze River basin
+Z Gao, D Long, G Tang, C Zeng, J Huang, Y Hong
+Journal of Hydrology 550, 478-496
+109 2017
+Hydrological data assimilation with the Ensemble Square-Root-Filter: Use of streamflow
+observations to update model states for real-time flash flood forecasting
+H Chen, D Yang, Y Hong, JJ Gourley, Y Zhang
+Advances in Water Resources 59, 209-220
+109 2013
+Global intercomparison and regional evaluation of GPM IMERG Version-03, Version-04
+and its latest Version-05 precipitation products: Similarity, difference and improvements
+C Wang, G Tang, Z Han, X Guo, Y Hong
+Journal of hydrology 564, 342-356
+108 2018
+Hydrologic evaluation of rainfall estimates from radar, satellite, gauge, and combinations
+on Ft. Cobb basin, Oklahoma
+JJ Gourley, Y Hong, ZL Flamig, J Wang, H Vergara, EN Anagnostou
+Journal of Hydrometeorology 12 (5), 973-988
+107 2011
+可持续环境承载⼒的度量及其应⽤
+洪阳， 叶⽂⻁
+中国⼈⼝・ 资源与环境 8 (3), 54-58
+106 1998
+Comprehensive evaluation of ensemble multi-satellite precipitation dataset using the
+dynamic bayesian model averaging scheme over the Tibetan Plateau
+Y Ma, Y Yang, Z Han, G Tang, L Maguire, Z Chu, Y Hong
+Journal of hydrology 556, 634-644
+104 2018
+Precipitation extremes estimated by GPCP and TRMM: ENSO relationships
+S Curtis, A Salahuddin, RF Adler, GJ Huffman, G Gu, Y Hong
+Journal of Hydrometeorology 8 (4), 678-689
+103 2007
+Evaluation of a satellite-based global flood monitoring system
+KK Yilmaz, RF Adler, Y Tian, Y Hong, HF Pierce
+International Journal of Remote Sensing 31 (14), 3763-3782
+101 2010
+An improved cloud classification algorithm for China’s FY-2C multi-channel images using
+artificial neural network
+Y Liu, J Xia, CX Shi, Y Hong
+Sensors 9 (7), 5558-5579
+101 2009
+55-year (1960–2015) spatiotemporal shoreline change analysis using historical DISP and
+Landsat time series data in Shanghai
+G Qiao, H Mi, W Wang, X Tong, Z Li, T Li, S Liu, Y Hong
+International journal of applied earth observation and geoinformation 68 …
+100 2018
+A Google Earth Engine-enabled software for efficiently generating high-quality user-ready
+Landsat mosaic images
+H Li, W Wan, Y Fang, S Zhu, X Chen, B Liu, Y Hong
+Environmental modelling & software 112, 16-22
+98 2019
+Developing a composite daily snow cover extent record over the Tibetan Plateau from
+1981 to 2016 using multisource data
+X Chen, D Long, S Liang, L He, C Zeng, X Hao, Y Hong
+Remote Sensing of Environment 215, 284-299
+97 2018
+A comprehensive data set of lake surface water temperature over the Tibetan Plateau
+derived from MODIS LST products 2001–2015
+W Wan, H Li, H Xie, Y Hong, D Long, L Zhao, Z Han, Y Cui, B Liu, C Wang, ...
+Scientific Data 4 (1), 1-10
+97 2017
+Distinct roles of Bazooka and Stardust in the specification of Drosophila photoreceptor
+membrane architecture
+Y Hong, L Ackerman, LY Jan, YN Jan
+Proceedings of the National Academy of Sciences 100 (22), 12712-12717
+97 2003
+Investigating the impact of remotely sensed precipitation and hydrologic model
+uncertainties on the ensemble streamflow forecasting
+H Moradkhani, K Hsu, Y Hong, S Sorooshian
+Geophysical research letters 33 (12)
+96 2006
+Uncertainty analysis of bias from satellite rainfall estimates using copula method
+S Moazami, S Golian, MR Kavianpour, Y Hong
+Atmospheric Research 137, 145-166
+95 2014
+Evaluation of version-7 TRMM multi-satellite precipitation analysis product during the
+Beijing extreme heavy rainfall event of 21 July 2012
+Y Huang, S Chen, Q Cao, Y Hong, B Wu, M Huang, L Qiao, Z Zhang, Z Li, ...
+Water 6 (1), 32-44
+95 2013
+Crop Water footprint estimation and modeling using an artificial neural network approach
+in the Nile Delta, Egypt
+A Elbeltagi, J Deng, K Wang, Y Hong
+Agricultural Water Management 235, 106080
+93 2020
+Actual evapotranspiration estimation for different land use and land cover in urban regions
+using Landsat 5 data
+W Liu, Y Hong, SI Khan, M Huang, B Vieux, S Caliskan, T Grout
+Journal of Applied Remote Sensing 4 (1), 041873
+93 2010
+Runoff sensitivity to climate change in the Nile River Basin
+E Hasan, A Tarhule, PE Kirstetter, R Clark III, Y Hong
+Journal of hydrology 561, 312-321
+92 2018
+Evaluation of three high-resolution satellite precipitation estimates: Potential for monsoon
+monitoring over Pakistan
+SI Khan, Y Hong, JJ Gourley, MUK Khattak, B Yong, HJ Vergara
+Advances in Space Research 54 (4), 670-684
+90 2014
+Skill assessment of a real-time forecast system utilizing a coupled hydrologic and coastal
+hydrodynamic model during Hurricane Irene (2011)
+KM Dresback, JG Fleming, BO Blanton, C Kaiser, JJ Gourley, EM Tromble, ...
+Continental Shelf Research 71, 78-94
+90 2013
+Effects of resolution of satellite-based rainfall estimates on hydrologic modeling skill at
+different scales
+H Vergara, Y Hong, JJ Gourley, EN Anagnostou, V Maggioni, ...
+Journal of Hydrometeorology 15 (2), 593-613
+89 2014
+Global reach-level 3-hourly river flood reanalysis (1980–2019)
+Y Yang, M Pan, P Lin, HE Beck, Z Zeng, D Yamazaki, CH David, H Lu, ...
+Bulletin of the American Meteorological Society 102 (11), E2086-E2105
+88 2021
+The TRMM multisatellite precipitation analysis (TMPA): quasi-global, multiyear, combinedsensor
+precipitation estimates at ne scales
+Y Hong, EF Stocker, DB Wolff
+J Hydrometeorol 8 (1), 3855
+87 2007
+Evaluation of the TRMM multisatellite precipitation analysis and its applicability in
+supporting reservoir operation and water resources management in Hanjiang basin,
+China
+N Yang, K Zhang, Y Hong, Q Zhao, Q Huang, Y Xu, X Xue, S Chen
+Journal of hydrology 549, 313-325
+86 2017
+Experimental demonstration of MIMO-OFDM underwater wireless optical communication
+Y Song, W Lu, B Sun, Y Hong, F Qu, J Han, W Zhang, J Xu
+Optics Communications 403, 205-210
+85 2017
+Uncertainty analysis of five satellite-based precipitation products and evaluation of three
+optimally merged multi-algorithm products over the Tibetan Plateau
+Y Shen, A Xiong, Y Hong, J Yu, Y Pan, Z Chen, M Saharia
+International journal of remote sensing 35 (19), 6843-6858
+85 2014
+Development of an NRCS curve number global dataset using the latest geospatial remote
+sensing data for worldwide hydrologic applications
+Z Zeng, G Tang, Y Hong, C Zeng, Y Yang
+Remote Sensing Letters 8 (6), 528-536
+84 2017
+A framework to evaluate community resilience to urban floods: A case study in three
+communities
+M Zhong, K Lin, G Tang, Q Zhang, Y Hong, X Chen
+Sustainability 12 (4), 1521
+83 2020
+Documentation of multifactorial relationships between precipitation and topography of the
+Tibetan Plateau using spaceborne precipitation radars
+G Tang, D Long, Y Hong, J Gao, W Wan
+Remote sensing of environment 208, 82-96
+83 2018
+Investigating the applicability of error correction ensembles of satellite rainfall products in
+river flow simulations
+V Maggioni, HJ Vergara, EN Anagnostou, JJ Gourley, Y Hong, ...
+Journal of Hydrometeorology 14 (4), 1194-1211
+83 2013
+Towards an early-warning system for global landslides triggered by rainfall and
+earthquake
+Y Hong, RF Adler
+International journal of remote sensing 28 (16), 3713-3719
+83 2007
+In quest of calibration density and consistency in hydrologic modeling: Distributed
+parameter calibration against streamflow characteristics
+Y Yang, M Pan, HE Beck, CK Fisher, RE Beighley, SC Kao, Y Hong, ...
+Water Resources Research 55 (9), 7784-7803
+81 2019
+Atmospheric moisture transport versus precipitation across the Tibetan Plateau: A minireview
+and current challenges
+Y Ma, M Lu, H Chen, M Pan, Y Hong
+Atmospheric Research 209, 50-58
+81 2018
+Recognizing global reservoirs from Landsat 8 images: A deep learning approach
+W Fang, C Wang, X Chen, W Wan, H Li, S Zhu, Y Fang, B Liu, Y Hong
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote …
+80 2019
+Intercomparison of rainfall estimates from radar, satellite, gauge, and combinations for a
+season of record rainfall
+JJ Gourley, Y Hong, ZL Flamig, L Li, J Wang
+Journal of Applied Meteorology and Climatology 49 (3), 437-452
+80 2010
+Exploring deep neural networks to retrieve rain and snow in high latitudes using
+multisensor and reanalysis data
+G Tang, D Long, A Behrangi, C Wang, Y Hong
+Water Resources Research 54 (10), 8253-8278
+77 2018
+Quantitative assessment of climate and human impacts on surface water resources in a
+typical semi-arid watershed in the middle reaches of the Yellow River from 1985 to 2006.
+Z Hu, L Wang, Z Wang, Y Hong, H Zheng
+International Journal of Climatology 35 (1)
+77 2015
+Using CYGNSS data to monitor China’s flood inundation during typhoon and extreme
+precipitation events in 2017
+W Wan, B Liu, Z Zeng, X Chen, G Wu, L Xu, X Chen, Y Hong
+Remote Sensing 11 (7), 854
+76 2019
+Flash flood risk analysis based on machine learning techniques in the Yunnan Province,
+China
+M Ma, C Liu, G Zhao, H Xie, P Jia, D Wang, H Wang, Y Hong
+Remote Sensing 11 (2), 170
+76 2019
+iCRESTRIGRS: a coupled modeling system for cascading flood–landslide disaster
+forecasting
+K Zhang, X Xue, Y Hong, JJ Gourley, N Lu, Z Wan, Z Hong, R Wooten
+Hydrology and Earth System Sciences 20 (12), 5035-5048
+76 2016
+Error-component analysis of TRMM-based multi-satellite precipitation estimates over
+mainland China
+B Yong, B Chen, Y Tian, Z Yu, Y Hong
+Remote Sensing 8 (5), 440
+76 2016
+The first WetNet precipitation intercomparison project (PIP-1): Interpretation of results
+EC Barrett, RF Adler, K Arpe, P Bauer, W Berg, A Chang, R Ferraro, ...
+Remote Sensing Reviews 11 (1-4), 303-373
+76 1994
+Infrared precipitation estimation using convolutional neural network
+C Wang, J Xu, G Tang, Y Yang, Y Hong
+IEEE Transactions on Geoscience and Remote Sensing 58 (12), 8612-8625
+75 2020
+中国 21 世纪的⽔安全
+洪阳
+环境保护, 29-31
+75 1999
+Improving water quantity simulation & forecasting to solve the energy-water-food nexus
+issue by using heterogeneous computing accelerated global optimization method
+G Kan, M Zhang, K Liang, H Wang, Y Jiang, J Li, L Ding, X He, Y Hong, ...
+Applied Energy 210, 420-433
+74 2018
+Evaluation of high-resolution precipitation estimates from satellites during July 2012
+Beijing flood event using dense rain gauge observations
+S Chen, H Liu, Y You, E Mullens, J Hu, Y Yuan, M Huang, L He, Y Luo, ...
+PloS one 9 (4), e89681
+74 2014
+Radar Hydrology
+Y Hong, JJ Gourley
+Taylor & Francis Limited
+73 2017
+A new methodology for pixel-quantitative precipitation nowcasting using a pyramid Lucas
+Kanade optical flow approach
+Y Liu, DG Xi, ZL Li, Y Hong
+Journal of Hydrology 529, 354-364
+73 2015
+全球降⽔测量 (GPM) 计划及其最新进展综述􀀀
+唐国强， 万玮， 曾⼦悦， 郭晓林， 李娜， ⻰笛， 洪阳
+遥感技术与应⽤ 30 (4), 607-615
+73 2015
+The conterminous United States are projected to become more prone to flash floods in a
+high-end emissions scenario
+Z Li, S Gao, M Chen, JJ Gourley, C Liu, AF Prein, Y Hong
+Communications Earth & Environment 3 (1), 86
+72 2022
+A method for probabilistic flash flood forecasting
+J Hardy, JJ Gourley, PE Kirstetter, Y Hong, F Kong, ZL Flamig
+Journal of Hydrology 541, 480-494
+72 2016
+Refining a distributed linear reservoir routing method to improve performance of the
+CREST model
+X Shen, Y Hong, K Zhang, Z Hao
+Journal of hydrologic engineering 22 (3), 04016061
+71 2017
+New multisite cascading calibration approach for hydrological models: Case study in the
+Red River Basin using the VIC model
+X Xue, K Zhang, Y Hong, JJ Gourley, W Kellogg, RA McPherson, Z Wan, ...
+Journal of Hydrologic Engineering 21 (2), 05015019
+71 2016
+Hydroclimatology of Lake Victoria region using hydrologic model and satellite remote
+sensing data
+SI Khan, P Adhikari, Y Hong, H Vergara, R F Adler, F Policelli, D Irwin, ...
+Hydrology and Earth System Sciences 15 (1), 107-117
+71 2011
+Similarities and improvements of GPM dual-frequency precipitation radar (DPR) upon
+TRMM precipitation radar (PR) in global precipitation rate estimation, type classification …
+J Gao, G Tang, Y Hong
+Remote sensing 9 (11), 1142
+70 2017
+Monitoring surface water quality using social media in the context of citizen science
+H Zheng, Y Hong, D Long, H Jing
+Hydrology and Earth System Sciences 21 (2), 949-961
+70 2017
+Microwave satellite data for hydrologic modeling in ungauged basins
+SI Khan, Y Hong, HJ Vergara, JJ Gourley, GR Brakenridge, T De Groeve, ...
+IEEE Geoscience and Remote Sensing Letters 9 (4), 663-667
+70 2012
+Differential regulation of adherens junction dynamics during apical–basal polarization
+J Huang, L Huang, YJ Chen, E Austin, CE Devor, F Roegiers, Y Hong
+Journal of cell science 124 (23), 4001-4013
+69 2011
+Development of a coupled hydrological-geotechnical framework for rainfall-induced
+landslides prediction
+X He, Y Hong, H Vergara, K Zhang, PE Kirstetter, JJ Gourley, Y Zhang, ...
+Journal of hydrology 543, 395-405
+68 2016
+Performance assessment of the successive Version 6 and Version 7 TMPA products over
+the climate-transitional zone in the southern Great Plains, USA
+L Qiao, Y Hong, S Chen, CB Zou, JJ Gourley, B Yong
+Journal of Hydrology 513, 446-456
+68 2014
+Enhancing community resilience to urban floods with a network structuring model
+W Xu, M Zhong, Y Hong, K Lin
+Safety Science 127, 104699
+67 2020
+Experimental investigation of multi-band OCT precoding for OFDM-based visible light
+communications
+Y Hong, J Xu, LK Chen
+Optics express 25 (11), 12908-12914
+67 2017
+Quantitative precipitation nowcasting: A Lagrangian pixel-based approach
+A Zahraei, K Hsu, S Sorooshian, JJ Gourley, V Lakshmanan, Y Hong, ...
+Atmospheric Research 118, 418-434
+67 2012
+The emerging role of satellite rainfall data in improving the hydro-political situation of flood
+monitoring in the under-developed regions of the world
+F Hossain, N Katiyar, Y Hong, A Wolf
+Natural Hazards 43 (2), 199-210
+67 2007
+The temporal-spatial characteristics of drought in the Loess Plateau using the remotesensed
+TRMM precipitation data from 1998 to 2014
+Q Zhao, Q Chen, M Jiao, P Wu, X Gao, M Ma, Y Hong
+Remote Sensing 10 (6), 838
+66 2018
+Research framework to bridge from the global precipitation measurement mission core
+satellite to the constellation sensors using ground-radar-based national mosaic QPE
+PE Kirstetter, Y Hong, JJ Gourley, Q Cao, M Schwaller, W Petersen
+Remote sensing of the terrestrial water cycle, 61-79
+66 2014
+First evaluation of the climatological calibration algorithm in the real-time TMPA
+precipitation estimates over two basins at high and low latitudes
+B Yong, L Ren, Y Hong, JJ Gourley, Y Tian, GJ Huffman, X Chen, W Wang, ...
+Water resources research 49 (5), 2461-2472
+66 2013
+Similarities and differences between three coexisting spaceborne radars in global rainfall
+and snowfall estimation
+G Tang, Y Wen, J Gao, D Long, Y Ma, W Wan, Y Hong
+Water resources research 53 (5), 3835-3853
+65 2017
+A large-scale comparison of Artificial Intelligence and Data Mining (AI&DM) techniques in
+simulating reservoir releases over the Upper Colorado Region
+T Yang, L Zhang, T Kim, Y Hong, D Zhang, Q Peng
+Journal of Hydrology 602, 126723
+64 2021
+环境质量与经济增⻓的库兹尼茨关系探讨
+洪阳， 栾胜基
+上海环境科学 18 (3), 112-114
+64 1999
+Impact of the crucial geographic and climatic factors on the input source errors of GPMbased
+global satellite precipitation estimates
+H Chen, B Yong, JJ Gourley, J Liu, L Ren, W Wang, Y Hong, J Zhang
+Journal of Hydrology 575, 1-16
+63 2019
+Using multi-satellite microwave remote sensing observations for retrieval of daily surface
+soil moisture across China
+K Zhang, L Chao, Q Wang, Y Huang, R Liu, Y Hong, Y Tu, W Qu, J Ye
+Water Science and Engineering 12 (2), 85-97
+63 2019
+Assessment of shallow landslides from Hurricane Mitch in central America using a
+physically based model
+Z Liao, Y Hong, D Kirschbaum, C Liu
+Environmental earth sciences 66 (6), 1697-1705
+63 2012
+Improvement of multi-satellite real-time precipitation products for ensemble streamflow
+simulation in a middle latitude basin in South China
+S Jiang, L Ren, Y Hong, X Yang, M Ma, Y Zhang, F Yuan
+Water Resources Management 28 (8), 2259-2278
+62 2014
+Self-organizing nonlinear output (SONO): A neural network suitable for cloud patch–
+based rainfall estimation at small scales
+Y Hong, K Hsu, S Sorooshian, X Gao
+Water Resources Research 41 (3)
+62 2005
+Assessment of physical water scarcity in Africa using GRACE and TRMM satellite data
+E Hasan, A Tarhule, Y Hong, B Moore III
+Remote Sensing 11 (8), 904
+61 2019
+Improved representation of diurnal variability of rainfall retrieved from the Tropical Rainfall
+Measurement Mission microwave imager adjusted Precipitation Estimation from …
+Y Hong, KL Hsu, S Sorooshian, X Gao
+Journal of Geophysical Research: Atmospheres 110 (D6)
+61 2005
+Estimating a-priori kinematic wave model parameters based on regionalization for flash
+flood forecasting in the Conterminous United States
+H Vergara, PE Kirstetter, JJ Gourley, ZL Flamig, Y Hong, A Arthur, R Kolar
+Journal of Hydrology 541, 421-433
+60 2016
+Error analysis of multi-satellite precipitation estimates with an independent raingauge
+observation network over a medium-sized humid basin
+X Yang, B Yong, Y Hong, S Chen, X Zhang
+Hydrological Sciences Journal 61 (10), 1813-1830
+60 2016
+Multi-sensor imaging and space-ground cross-validation for 2010 flood along Indus River,
+Pakistan
+SI Khan, Y Hong, JJ Gourley, MU Khattak, T De Groeve
+Remote Sensing 6 (3), 2393-2407
+60 2014
+Analyzing projected changes and trends of temperature and precipitation in the southern
+USA from 16 downscaled global climate models
+L Liu, Y Hong, JE Hocker, MA Shafer, LM Carter, JJ Gourley, ...
+Theoretical and Applied Climatology 109 (3), 345-360
+60 2012
+Optimal power allocation for multiple beam satellite systems
+Y Hong, A Srinivasan, B Cheng, L Hartman, P Andreadis
+2008 IEEE Radio and Wireless Symposium, 823-826
+60 2008
+An integrated scenario ensemble-based framework for hurricane evacuation modeling:
+Part 2—Hazard modeling
+B Blanton, K Dresback, B Colle, R Kolar, H Vergara, Y Hong, N Leonardo, ...
+Risk analysis 40 (1), 117-133
+59 2020
+Spatio-temporal analysis and simulation on shallow rainfall-induced landslides in China
+using landslide susceptibility dynamics and rainfall ID thresholds
+WY Li, C Liu, M Scaioni, WW Sun, Y Chen, DJ Yao, S Chen, Y Hong, ...
+Science China Earth Sciences 60 (4), 720-732
+58 2017
+Comparison of snowfall estimates from the NASA CloudSat cloud profiling radar and
+NOAA/NSSL multi-radar multi-sensor system
+S Chen, Y Hong, M Kulie, A Behrangi, PM Stepanian, Q Cao, Y You, ...
+Journal of hydrology 541, 862-872
+58 2016
+Short-term quantitative precipitation forecasting using an object-based approach
+A Zahraei, K Hsu, S Sorooshian, JJ Gourley, Y Hong, A Behrangi
+Journal of hydrology 483, 1-15
+58 2013
+Computer aided numerical methods for hydrological model calibration: An overview and
+recent development
+G Kan, X He, J Li, L Ding, Y Hong, H Zhang, K Liang, M Zhang
+Archives of Computational Methods in Engineering 26 (1), 35-59
+57 2019
+Can near-real-time satellite precipitation products capture rainstorms and guide flood
+warning for the 2016 summer in South China?
+G Tang, Z Zeng, M Ma, R Liu, Y Wen, Y Hong
+IEEE Geoscience and remote sensing letters 14 (8), 1208-1212
+57 2017
+Identification and assessment of potential water quality impact factors for drinking-water
+reservoirs
+Q Gu, J Deng, K Wang, Y Lin, J Li, M Gan, L Ma, Y Hong
+International journal of environmental research and public health 11 (6 …
+57 2014
+Towards high resolution flood monitoring: An integrated methodology using passive
+microwave brightness temperatures and Sentinel synthetic aperture radar imagery
+Z Zeng, Y Gan, AJ Kettner, Q Yang, C Zeng, GR Brakenridge, Y Hong
+Journal of Hydrology 582, 124377
+56 2020
+Monitoring urban greenness dynamics using multiple endmember spectral mixture
+analysis
+M Gan, J Deng, X Zheng, Y Hong, K Wang
+PloS one 9 (11), e112202
+56 2014
+Evaluation of Subseasonal-to-Seasonal (S2S) precipitation forecast from the North
+American Multi-Model ensemble phase II (NMME-2) over the contiguous US
+L Zhang, T Kim, T Yang, Y Hong, Q Zhu
+Journal of Hydrology 603, 127058
+55 2021
+An updated moving window algorithm for hourly-scale satellite precipitation downscaling:
+A case study in the Southeast Coast of China
+Z Ma, J Xu, K He, X Han, Q Ji, TC Wang, W Xiong, Y Hong
+Journal of Hydrology 581, 124378
+55 2020
+A methodology to monitor urban expansion and green space change using a time series
+of multi-sensor SPOT and Sentinel-2A images
+J Deng, Y Huang, B Chen, C Tong, P Liu, H Wang, Y Hong
+Remote Sensing 11 (10), 1230
+55 2019
+An interpretable self-adaptive deep neural network for estimating daily spatiallycontinuous
+PM2. 5 concentrations across China
+B Chen, S You, Y Ye, Y Fu, Z Ye, J Deng, K Wang, Y Hong
+Science of The Total Environment 768, 144724
+54 2021
+Cross-examination of similarity, difference and deficiency of gauge, radar and satellite
+precipitation measuring uncertainties for extreme events using conventional metrics
+and …
+Z Li, M Chen, S Gao, Z Hong, G Tang, Y Wen, JJ Gourley, Y Hong
+Remote Sensing 12 (8), 1258
+54 2020
+Remote sensing precipitation: Sensors, retrievals, validations, and applications
+Y Hong, G Tang, Y Ma, Q Huang, Z Han, Z Zeng, Y Yang, C Wang, X Guo
+Observation and measurement of ecohydrological processes, 1-23
+54 2018
+Systematic anomalies over inland water bodies of High Mountain Asia in TRMM
+precipitation estimates: No longer a problem for the GPM era?
+G Tang, D Long, Y Hong
+IEEE Geoscience and remote sensing letters 13 (12), 1762-1766
+54 2016
+Remote collection and analysis of witness reports on flash floods
+JJ Gourley, JM Erlingis, TM Smith, KL Ortega, Y Hong
+Journal of hydrology 394 (1-2), 53-62
+54 2010
+Statistical assessment of the impact of conservation measures on streamflow responses
+in a watershed of the Loess Plateau, China
+L Dou, M Huang, Y Hong
+Water resources management 23 (10), 1935-1949
+54 2009
+Evaluation of GPM IMERG and its constellations in extreme events over the conterminous
+United States
+Z Li, G Tang, P Kirstetter, S Gao, JLF Li, Y Wen, Y Hong
+Journal of Hydrology 606, 127357
+53 2022
+Polarimetric signatures of midlatitude warm-rain precipitation events
+N Carr, PE Kirstetter, JJ Gourley, Y Hong
+Journal of Applied Meteorology and Climatology 56 (3), 697-711
+53 2017
+Impact of sub-pixel rainfall variability on spaceborne precipitation estimation: evaluating
+the TRMM 2A25 product
+PE Kirstetter, Y Hong, JJ Gourley, M Schwaller, W Petersen, Q Cao
+Quarterly Journal of the Royal Meteorological Society 141 (688), 953-966
+53 2015
+Study on applicability of conceptual hydrological models for flood forecasting in humid,
+semi-humid semi-arid and arid basins in China
+G Kan, X He, L Ding, J Li, K Liang, Y Hong
+Water 9 (10), 719
+52 2017
+Mudslide-caused ecosystem degradation following Wenchuan earthquake 2008
+D Ren, J Wang, R Fu, DJ Karoly, Y Hong, LM Leslie, C Fu, G Huang
+Geophysical Research Letters 36 (5)
+52 2009
+CREST-iMAP v1. 0: A fully coupled hydrologic-hydraulic modeling framework dedicated to
+flood inundation mapping and prediction
+Z Li, M Chen, S Gao, X Luo, JJ Gourley, P Kirstetter, T Yang, R Kolar, ...
+Environmental Modelling & Software 141, 105051
+51 2021
+A comprehensive flash flood defense system in China: Overview, achievements, and
+outlook
+L Guo, B He, M Ma, Q Chang, Q Li, K Zhang, Y Hong
+Natural Hazards 92 (2), 727-740
+51 2018
+Using hydrologic and hydraulically derived geometric parameters of perennial rivers to
+determine minimum water requirements of ecological habitats (case study: Mazandaran
+Sea …
+A Shokoohi, Y Hong
+Hydrological Processes 25 (22), 3490-3498
+51 2011
+Using BDS SNR observations to measure near-surface soil moisture fluctuations: Results
+from low vegetated surface
+T Yang, W Wan, X Chen, T Chu, Y Hong
+IEEE Geoscience and Remote Sensing Letters 14 (8), 1308-1312
+50 2017
+A global distributed basin morphometric dataset
+X Shen, EN Anagnostou, Y Mei, Y Hong
+Scientific Data 4 (1), 1-8
+50 2017
+Investigation of potential sea level rise impact on the Nile Delta, Egypt using digital
+elevation models
+E Hasan, SI Khan, Y Hong
+Environmental monitoring and assessment 187 (10), 649
+49 2015
+Evaluation and uncertainty estimation of NOAA/NSSL next-generation National Mosaic
+Quantitative Precipitation Estimation product (Q2) over the continental United States
+S Chen, JJ Gourley, Y Hong, PE Kirstetter, J Zhang, K Howard, ZL Flamig, ...
+Journal of Hydrometeorology 14 (4), 1308-1322
+49 2013
+Evaluation of the visible and shortwave infrared drought index in China
+N Zhang, Y Hong, Q Qin, L Zhu
+International Journal of Disaster Risk Science 4 (2), 68-76
+49 2013
+A soil moisture spatial and temporal resolution improving algorithm based on multi-source
+remote sensing data and GRNN model
+Y Cui, X Chen, W Xiong, L He, F Lv, W Fan, Z Luo, Y Hong
+Remote Sensing 12 (3), 455
+48 2020
+Probabilistic precipitation rate estimates with space-based infrared sensors
+PE Kirstetter, N Karbalaee, K Hsu, Y Hong
+Quarterly Journal of the Royal Meteorological Society 144, 191-205
+48 2018
+Toward user mobility for OFDM-based visible light communications
+Y Hong, LK Chen
+Optics Letters 41 (16), 3763-3766
+48 2016
+Hydrometeorological analysis and remote sensing of extremes: Was the July 2012 Beijing
+flood event detectable and predictable by global satellite observing and global weather …
+Y Zhang, Y Hong, X Wang, JJ Gourley, X Xue, M Saharia, G Ni, G Wang, ...
+Journal of hydrometeorology 16 (1), 381-395
+48 2015
+Proteomic analysis of schistosoma japonicum schistosomulum proteins that are
+differentially expressed among hosts differing in their susceptibility to the infection
+Y Hong, J Peng, W Jiang, Z Fu, J Liu, Y Shi, X Li, J Lin
+Molecular & Cellular Proteomics 10 (8), M110. 006098
+48 2011
+A two-stage blending approach for merging multiple satellite precipitation estimates and
+rain gauge observations: An experiment in the northeastern Tibetan Plateau
+Y Ma, X Sun, H Chen, Y Hong, Y Zhang
+Hydrology and Earth System Sciences 25 (1), 359-374
+47 2021
+Evaluation of past, present and future tools for radar-based flash-flood prediction in the
+USA
+JJ Gourley, ZL Flamig, Y Hong, KW Howard
+Hydrological sciences journal 59 (7), 1377-1389
+47 2014
+Empirical conversion of the vertical profile of reflectivity from Ku-band to S-band
+frequency
+Q Cao, Y Hong, Y Qi, Y Wen, J Zhang, JJ Gourley, L Liao
+Journal of Geophysical Research: Atmospheres 118 (4), 1814-1825
+47 2013
+Climate change leads to a doubling of turbidity in a rapidly expanding Tibetan lake
+H Mi, S Fagherazzi, G Qiao, Y Hong, CG Fichot
+Science of the total environment 688, 952-959
+46 2019
+Evaluating the performance of merged multi-satellite precipitation products over a
+complex terrain
+S Golian, S Moazami, PE Kirstetter, Y Hong
+Water Resources Management 29 (13), 4885-4901
+46 2015
+Snowfall detectability of NASA's cloudsat: The first cross-investigation of its 2C-snowprofile
+product and national multi-sensor mosaic QPE (NMQ) snowfall data
+Q Cao, Y Hong, S Chen, JJ Gourley, J Zhang, PE Kirstetter
+Progress in electromagnetics research 148, 55-61
+46 2014
+Apoptosis governs the elimination of Schistosoma japonicum from the non-permissive
+host Microtus fortis
+J Peng, GN Gobert, Y Hong, W Jiang, H Han, DP McManus, X Wang, J Liu, ...
+PLoS One 6 (6), e21109
+46 2011
+Applications of TRMM-based multi-satellite precipitation estimation for global runoff
+prediction: Prototyping a global flood modeling system
+Y Hong, RF Adler, GJ Huffman, H Pierce
+Satellite rainfall applications for surface hydrology, 245-265
+46 2009
+Two-decades of GPM IMERG early and final run products intercomparison: Similarity and
+difference in climatology, rates, and extremes
+Z Li, G Tang, Z Hong, M Chen, S Gao, P Kirstetter, JJ Gourley, Y Wen, ...
+Journal of Hydrology 594, 125975
+45 2021
+Assessment of water storage change in China’s lakes and reservoirs over the last three
+decades
+Y Fang, H Li, W Wan, S Zhu, Z Wang, Y Hong, H Wang
+Remote Sensing 11 (12), 1467
+45 2019
+Near real-time hurricane rainfall forecasting using convolutional neural network models
+with Integrated Multi-satellitE Retrievals for GPM (IMERG) product
+T Kim, T Yang, L Zhang, Y Hong
+Atmospheric Research 270, 106037
+44 2022
+Global component analysis of errors in three satellite-only global precipitation estimates
+H Chen, B Yong, PE Kirstetter, L Wang, Y Hong
+Hydrology and Earth System Sciences 25 (6), 3087-3104
+44 2021
+A long-term dataset of lake surface water temperature over the Tibetan Plateau derived
+from AVHRR 1981–2015
+B Liu, W Wan, H Xie, H Li, S Zhu, G Zhang, L Wen, Y Hong
+Scientific data 6 (1), 48
+44 2019
+Observed radiative cooling over the Tibetan Plateau for the past three decades driven by
+snow cover-induced surface albedo anomaly
+X Chen, D Long, Y Hong, S Liang, A Hou
+Journal of Geophysical Research: Atmospheres 122 (12), 6170-6185
+44 2017
+Understanding overland multisensor satellite precipitation error in TMPA-RT products
+AS Gebregiorgis, PE Kirstetter, YE Hong, NJ Carr, JJ Gourley, W Petersen, ...
+Journal of Hydrometeorology 18 (2), 285-306
+44 2017
+A statistical method for categorical drought prediction based on NLDAS-2
+Z Hao, F Hao, Y Xia, VP Singh, Y Hong, X Shen, W Ouyang
+Journal of Applied Meteorology and Climatology 55 (4), 1049-1061
+44 2016
+Model test study on monitoring dynamic process of slope failure through spatial sensor
+network
+P Lu, H Wu, G Qiao, W Li, M Scaioni, T Feng, S Liu, W Chen, N Li, C Liu, ...
+Environmental Earth Sciences 74 (4), 3315-3332
+44 2015
+Spatial–temporal changes of water resources in a typical semiarid basin of North China
+over the past 50 years and assessment of possible natural and socioeconomic causes
+B Yong, L Ren, Y Hong, JJ Gourley, X Chen, J Dong, W Wang, Y Shen, ...
+Journal of Hydrometeorology 14 (4), 1009-1034
+44 2013
+Spatio-temporal variability of Antarctic sea-ice thickness and volume obtained from
+ICESat data using an innovative algorithm
+H Li, H Xie, S Kern, W Wan, B Ozsoy, S Ackley, Y Hong
+Remote Sensing of Environment 219, 44-61
+43 2018
+Hydrological variability and uncertainty of lower Missouri River basin under changing
+climate
+L Qiao, Z Pan, RB Herrmann, Y Hong
+JAWRA Journal of the American Water Resources Association 50 (1), 246-260
+43 2014
+Impacts of polarimetric radar observations on hydrologic simulation
+JJ Gourley, SE Giangrande, Y Hong, ZL Flamig, T Schuur, JA Vrugt
+Journal of Hydrometeorology 11 (3), 781-796
+43 2010
+Global water cycle and remote sensing big data: overview, challenge, and opportunities
+Y Cui, X Chen, J Gao, B Yan, G Tang, Y Hong
+Big Earth Data 2 (3), 282-297
+42 2018
+The influence of surface and precipitation characteristics on TRMM Microwave Imager
+rainfall retrieval uncertainty
+N Carr, PE Kirstetter, Y Hong, JJ Gourley, M Schwaller, W Petersen, ...
+Journal of Hydrometeorology 16 (4), 1596-1614
+42 2015
+Flash flood
+Y Hong, P Adhikari, JJ Gourley
+Encyclopedia of natural hazards, 324-325
+42 2013
+A copula-based multivariate probability analysis for flash flood risk under the compound
+effect of soil moisture and rainfall
+M Zhong, T Zeng, T Jiang, H Wu, X Chen, Y Hong
+Water Resources Management 35 (1), 83-98
+41 2021
+A spatio-temporal continuous soil moisture dataset over the Tibet Plateau from 2002 to
+2015
+Y Cui, C Zeng, J Zhou, H Xie, W Wan, L Hu, W Xiong, X Chen, W Fan, ...
+Scientific Data 6 (1), 247
+41 2019
+A new digital lake bathymetry model using the step-wise water recession method to
+generate 3D lake bathymetric maps based on DEMs
+S Zhu, B Liu, W Wan, H Xie, Y Fang, X Chen, H Li, W Fang, G Zhang, ...
+Water 11 (6), 1151
+41 2019
+Investigation of SMAP active–passive downscaling algorithms using combined sentinel-1
+SAR and SMAP radiometer data
+L He, Y Hong, X Wu, N Ye, JP Walker, X Chen
+IEEE transactions on Geoscience and remote sensing 56 (8), 4906-4918
+41 2018
+The CI-FLOW project: a system for total water level prediction from the summit to the sea
+S Van Cooten, KE Kelleher, K Howard, J Zhang, JJ Gourley, JS Kain, ...
+Bulletin of the American Meteorological Society 92 (11), 1427-1442
+41 2011
+Study on the applicability of the Hargreaves potential evapotranspiration estimation
+method in CREST distributed hydrological model (version 3.0) applications
+Z Li, Y Yang, G Kan, Y Hong
+Water 10 (12), 1882
+40 2018
+Comparisons of spatially downscaling TMPA and IMERG over the Tibetan Plateau
+Z Ma, K He, X Tan, J Xu, W Fang, Y He, Y Hong
+Remote Sensing 10 (12), 1883
+39 2018
+Improvement of forecast skill for severe weather by merging radar-based extrapolation
+and storm-scale NWP corrected forecast
+G Wang, WK Wong, Y Hong, L Liu, J Dong, M Xue
+Atmospheric Research 154, 14-24
+39 2015
+Large-scale flash flood warning in China using deep learning
+G Zhao, R Liu, M Yang, T Tu, M Ma, Y Hong, X Wang
+Journal of Hydrology 604, 127222
+38 2022
+Evaluation of latest TMPA and CMORPH precipitation products with independent rain
+gauge observation networks over high-latitude and low-latitude basins in China
+S Jiang, L Ren, B Yong, Y Hong, X Yang, F Yuan
+Chinese Geographical Science 26 (4), 439-455
+38 2016
+A study of substitutability of TRMM remote sensing precipitation for gauge-based
+observation in Ganjiang River basin
+G TANG, Z LI, X XUE, Q HU, B YONG, Y HONG
+Advances in Water Science 26 (3), 340-346
+38 2015
+Projected changes in mean and interannual variability of surface water over continental
+China
+GY Leng, QH Tang, MY Huang, Y Hong, LL Ruby
+Science China Earth Sciences 58 (5), 739-754
+38 2015
+Topography and geology effects on travel distances of natural terrain landslides: Evidence
+from a large multi-temporal landslide inventory in Hong Kong
+L Gao, LM Zhang, HX Chen, K Fei, Y Hong
+Engineering Geology 292, 106266
+37 2021
+A systematic assessment and reduction of parametric uncertainties for a distributed
+hydrological model
+Y Gan, XZ Liang, Q Duan, A Ye, Z Di, Y Hong, J Li
+Journal of hydrology 564, 697-711
+37 2018
+The first comparisons of IMERG and the downscaled results based on IMERG in
+hydrological utility over the Ganjiang River basin
+Z Ma, X Tan, Y Yang, X Chen, G Kan, X Ji, H Lu, J Long, Y Cui, Y Hong
+Water 10 (10), 1392
+36 2018
+Sensitivity analysis of standardization procedures in drought indices to varied input data
+selections
+Y Liu, L Ren, Y Hong, Y Zhu, X Yang, F Yuan, S Jiang
+Journal of Hydrology 538, 817-830
+36 2016
+Screening Diagnostic Candidates for Schistosomiasis from Tegument Proteins of Adult
+Schistosoma japonicum Using an Immunoproteomic Approach
+M Zhang, Z Fu, C Li, Y Han, X Cao, H Han, Y Liu, K Lu, Y Hong, J Lin
+PLoS neglected tropical diseases 9 (2), e0003454
+36 2015
+Characterizing spatiotemporal variations of hourly rainfall by gauge and radar in the
+mountainous three gorges region
+Z Li, D Yang, Y Hong, J Zhang, Y Qi
+Journal of Applied Meteorology and Climatology 53 (4), 873-889
+36 2014
+Climatological drought analyses and projection using SPI and PDSI: case study of the
+Arkansas Red River Basin
+L Liu, Y Hong, J Looper, R Riley, B Yong, Z Zhang, J Hocker, M Shafer
+Journal of Hydrologic Engineering 18 (7), 809-816
+36 2013
+Flood hazards in urban environment
+L Gao, L Zhang, Y Hong, HX Chen, SJ Feng
+Georisk: Assessment and Management of Risk for Engineered Systems and …
+35 2023
+Heatwave trends and the population exposure over China in the 21st century as well as
+under 1.5 C and 2.0 C global warmer future scenarios
+Z Li, X Guo, Y Yang, Y Hong, Z Wang, L You
+Sustainability 11 (12), 3318
+35 2019
+Phosphoinositides and membrane targeting in cell polarity
+GR Hammond, Y Hong
+Cold Spring Harbor perspectives in biology 10 (2), a027938
+35 2018
+A novel colloidal gold immunochromatography assay strip for the diagnosis of
+schistosomiasis japonica in domestic animals
+R Xu, J Feng, Y Hong, C Lv, D Zhao, J Lin, K Lu, H Li, J Liu, X Cao, ...
+Infectious Diseases of Poverty 6 (1), 84
+35 2017
+Statistical and physical analysis of the vertical structure of precipitation in the
+mountainous west region of the United States using 11+ years of spaceborne
+observations from …
+Q Cao, Y Hong, JJ Gourley, Y Qi, J Zhang, Y Wen, PE Kirstetter
+Journal of applied meteorology and climatology 52 (2), 408-424
+35 2013
+Successive and Targeted DNA Integrations in the Drosophila Genome by Bxb1 and φC31
+Integrases
+J Huang, P Ghosh, GF Hatfull, Y Hong
+Genetics 189 (1), 391-395
+35 2011
+Investigating the evaluation uncertainty for satellite precipitation estimates based on two
+different ground precipitation observation products
+H Chen, B Yong, W Qi, H Wu, L Ren, Y Hong
+Journal of Hydrometeorology 21 (11), 2595-2606
+34 2020
+Can remote sensing technologies capture the extreme precipitation event and its
+cascading hydrological response? A case study of Hurricane Harvey using EF5 modeling
+framework
+M Chen, S Nabih, NS Brauer, S Gao, JJ Gourley, Z Hong, RL Kolar, ...
+Remote Sensing 12 (3), 445
+34 2020
+Comparison of projected water availability and demand reveals future hotspots of water
+stress in the Red River basin, USA
+HZ Sabzi, HA Moreno, R Fovargue, X Xue, Y Hong, TM Neeson
+Journal of Hydrology: Regional Studies 26, 100638
+34 2019
+An extension of the alpha approximation method for soil moisture estimation using timeseries
+SAR data over bare soil surfaces
+L He, Q Qin, R Panciera, M Tanase, JP Walker, Y Hong
+IEEE Geoscience and Remote Sensing Letters 14 (8), 1328-1332
+34 2017
+A cascading flash flood guidance system: development and application in Yunnan
+Province, China
+Z Zeng, G Tang, D Long, C Zeng, M Ma, Y Hong, H Xu, J Xu
+Natural Hazards 84 (3), 2071-2093
+34 2016
+Hydrologic evaluation of the TRMM multisatellite precipitation analysis over Ganjiang
+Basin in humid southeastern China
+S Chen, J Hu, Z Zhang, A Behrangi, Y Hong, AS Gebregiorgis, J Cao, ...
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote …
+34 2015
+赣江流域 TRMM 遥感降⽔对地⾯站点观测的可替代性
+唐国强， 李哲， 薛显武， 胡庆芳， 雍斌， 洪阳
+⽔科学进展 26 (3), 340-346
+34 2015
+Bare surface soil moisture estimation using double-angle and dual-polarization L-band
+radar data
+X Shen, K Mao, Q Qin, Y Hong, G Zhang
+IEEE Transactions on Geoscience and Remote Sensing 51 (7), 3931-3942
+34 2013
+Land surface characterization using BeiDou signal-to-noise ratio observations
+T Yang, W Wan, X Chen, T Chu, Z Qiao, H Liang, J Wei, G Wang, Y Hong
+GPS Solutions 23 (2), 32
+33 2019
+Characterizing the flash flooding risks from 2011 to 2016 over China
+M Ma, B He, J Wan, P Jia, X Guo, L Gao, LW Maguire, Y Hong
+Water 10 (6), 704
+33 2018
+Investigation of inducements and defenses of flash floods and urban waterlogging in
+Fuzhou, China, from 1950 to 2010
+M Ma, H Wang, P Jia, R Liu, Z Hong, LG Labriola, Y Hong, L Miao
+Natural Hazards 91 (2), 803-818
+33 2018
+Investigating China's Urban Air Quality Using Big Data, Information Theory, and Machine
+Learning.
+S Chen, G Kan, J Li, K Liang, Y Hong
+Polish Journal of Environmental Studies 27 (2)
+33 2018
+Cross validation of spaceborne radar and ground polarimetric radar aided by polarimetric
+echo classification of hydrometeor types
+Y Wen, Y Hong, G Zhang, TJ Schuur, JJ Gourley, Z Flamig, KR Morris, ...
+Journal of applied meteorology and climatology 50 (7), 1389-1402
+33 2011
+Proteome-wide analysis of lysine acetylation in adult Schistosoma japonicum worm
+Y Hong, X Cao, Q Han, C Yuan, M Zhang, Y Han, C Zhu, T Lin, K Lu, H Li, ...
+Journal of proteomics 148, 202-212
+32 2016
+Probabilistic drought characterization in the categorical form using ordinal regression
+Z Hao, Y Hong, Y Xia, VP Singh, F Hao, H Cheng
+Journal of Hydrology 535, 331-339
+32 2016
+Iterative-tuning support vector machine for network traffic classification
+Y Hong, C Huang, B Nandy, N Seddigh
+2015 IFIP/IEEE International Symposium on Integrated Network Management (IM …
+32 2015
+Climate change and hydrological response in the trans-state Oologah Lake watershed–
+evaluating dynamically downscaled NARCCAP and statistically downscaled CMIP3
+simulations with …
+L Qiao, Y Hong, R McPherson, M Shafer, D Gade, D Williams, S Chen, ...
+Water resources management 28 (10), 3291-3305
+32 2014
+Multiscale hydrologic remote sensing: perspectives and applications
+NB Chang, Y Hong
+CRC Press
+32 2012
+Improving Subseasonal-to-Seasonal forecasts in predicting the occurrence of extreme
+precipitation events over the contiguous US using machine learning models
+L Zhang, T Yang, S Gao, Y Hong, Q Zhang, X Wen, C Cheng
+Atmospheric Research 281, 106502
+31 2023
+Advancing satellite precipitation retrievals with data driven approaches: Is black box
+model explainable?
+Z Li, Y Wen, M Schreier, A Behrangi, Y Hong, B Lambrigtsen
+Earth and Space Science 8 (2), e2020EA001423
+31 2021
+Using artificial potential field theory for a cooperative control model in a connected and
+automated vehicles environment
+Z Yi, L Li, X Qu, Y Hong, P Mao, B Ran
+Transportation Research Record 2674 (9), 1005-1018
+31 2020
+Experimental demonstration of OQAM-OFDM based MIMO-NOMA over visible light
+communications
+J Shi, Y Hong, J He, R Deng, LK Chen
+Optical Fiber Communication Conference, M2K. 3
+31 2018
+Mammalian Numb protein antagonizes Notch by controlling postendocytic trafficking of
+the Notch ligand Delta-like 4
+X Shao, Z Ding, M Zhao, K Liu, H Sun, J Chen, X Liu, Y Zhang, Y Hong, ...
+Journal of Biological Chemistry 292 (50), 20628-20643
+31 2017
+Variational merged of hourly gauge-satellite precipitation in China: preliminary results
+H Li, Y Hong, P Xie, J Gao, Z Niu, P Kirstetter, B Yong
+Journal of Geophysical Research: Atmospheres 120 (19), 9897-9915
+31 2015
+Evaluation of spatial errors of precipitation rates and types from TRMM spaceborne radar
+over the southern CONUS
+S Chen, PE Kirstetter, Y Hong, JJ Gourley, YD Tian, YC Qi, Q Cao, ...
+Journal of Hydrometeorology 14 (6), 1884-1896
+31 2013
+Incorporating NASA spaceborne radar data into NOAA National Mosaic QPE system for
+improved precipitation measurement: A physically based VPR identification and
+enhancement method
+Y Wen, Q Cao, PE Kirstetter, Y Hong, JJ Gourley, J Zhang, G Zhang, ...
+Journal of Hydrometeorology 14 (4), 1293-1307
+31 2013
+Effective multi-satellite precipitation fusion procedure conditioned by gauge background
+fields over the Chinese mainland
+W Li, Q Jiang, X He, H Sun, W Sun, M Scaioni, S Chen, X Li, J Gao, ...
+Journal of Hydrology 610, 127783
+30 2022
+Can satellite precipitation products estimate probable maximum precipitation: A
+comparative investigation with gauge data in the Dadu River Basin
+Y Yang, G Tang, X Lei, Y Hong, N Yang
+Remote Sensing 10 (1), 41
+30 2017
+Hydrological modeling and capacity building in the Republic of Namibia
+RA Clark III, ZL Flamig, H Vergara, Y Hong, JJ Gourley, DJ Mandl, S Frye, ...
+Bulletin of the American Meteorological Society 98 (8), 1697-1715
+30 2017
+Evaluating four multisatellite precipitation estimates over the Diaoyu Islands during
+Typhoon seasons
+B Yong, J Wang, L Ren, Y You, P Xie, Y Hong
+Journal of Hydrometeorology 17 (5), 1623-1641
+30 2016
+Precipitation spectra analysis over China with high-resolution measurements from
+optimally-merged satellite/gauge observations—part II: Diurnal variability analysis
+S Chen, A Behrangi, Y Tian, J Hu, Y Hong, Q Tang, XM Hu, PM Stepanian, ...
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote …
+30 2016
+Evaluation of recombinant multi-epitope proteins for diagnosis of goat schistosomiasis by
+enzyme-linked immunosorbent assay
+C Lv, Y Hong, Z Fu, K Lu, X Cao, T Wang, C Zhu, H Li, R Xu, B Jia, Q Han, ...
+Parasites & Vectors 9 (1), 135
+30 2016
+The diurnal cycle of precipitation in regional spectral model simulations over West Africa:
+sensitivities to resolution and cumulus schemes
+X He, H Kim, PE Kirstetter, K Yoshimura, EC Chang, CR Ferguson, ...
+Weather and Forecasting 30 (2), 424-445
+30 2015
+15 Global Precipitation Estimation and Applications
+Y Hong, S Chen, X Xue, G Hodges
+MULTI HYDRO REMO, 371
+30 2012
+Estimation of crop water requirement based on planting structure extraction from multitemporal
+MODIS EVI
+C Xu, X Zhang, J Zhang, Y Chen, TL Yami, Y Hong
+Water Resources Management 35 (7), 2231-2247
+29 2021
+Research progress on advanced renal cell carcinoma
+X Song, Y Tian, H Li, B Liu, A Zhang, Y Hong
+Journal of International Medical Research 48 (6), 0300060520924265
+29 2020
+Effects of 4D-Var data assimilation using remote sensing precipitation products in a WRF
+model over the complex terrain of an arid region river basin
+X Pan, X Li, G Cheng, Y Hong
+Remote Sensing 9 (9), 963
+29 2017
+Initial results of China’s GNSS-R airborne campaign: Soil moisture retrievals
+W Wan, W Bai, L Zhao, D Long, Y Sun, X Meng, H Chen, X Cui, Y Hong
+science Bulletin 60 (10), 964-971
+29 2015
+Characterization of thioredoxin glutathione reductase in Schiotosoma japonicum
+Y Han, M Zhang, Y Hong, Z Zhu, D Li, X Li, Z Fu, J Lin
+Parasitology international 61 (3), 475-480
+29 2012
+Spatiotemporal characteristics of US floods: Current status and forecast under a future
+warmer climate
+Z Li, S Gao, M Chen, JJ Gourley, Y Hong
+Earth's Future 10 (10), e2022EF002700
+28 2022
+A comprehensive flood inundation mapping for Hurricane Harvey using an integrated
+hydrological and hydraulic model
+M Chen, Z Li, S Gao, X Luo, OEJ Wing, X Shen, JJ Gourley, RL Kolar, ...
+Journal of Hydrometeorology 22 (7), 1713-1726
+28 2021
+A two-step fusion framework for quality improvement of a remotely sensed soil moisture
+product: A case study for the ECV product over the Tibetan Plateau
+Y Cui, X Yang, X Chen, W Fan, C Zeng, W Xiong, Y Hong
+Journal of Hydrology 587, 124993
+28 2020
+Climatology of snow phenology over the Tibetan plateau for the period 2001–2014 using
+multisource data
+X Chen, D Long, Y Hong, X Hao, A Hou
+International Journal of Climatology 38 (6), 2718-2729
+28 2018
+A new approach to modeling water balance in Nile River Basin, Africa
+M Belete, J Deng, M Zhou, K Wang, S You, Y Hong, M Weston
+Sustainability 10 (3), 810
+28 2018
+Assimilation of passive microwave streamflow signals for improving flood forecasting: A
+first study in Cubango River Basin, Africa
+Y Zhang, Y Hong, XG Wang, JJ Gourley, JD Gao, HJ Vergara, B Yong
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote …
+28 2013
+Satellite remote sensing for global landslide monitoring
+Y Hong, RE Adler, GJ Huffman
+Eos, Transactions American Geophysical Union 88 (37), 357-358
+28 2007
+Developing a gap-filling algorithm using DNN for the Ts-VI triangle model to obtain
+temporally continuous daily actual evapotranspiration in an arid area of China
+Y Cui, S Ma, Z Yao, X Chen, Z Luo, W Fan, Y Hong
+Remote Sensing 12 (7), 1121
+27 2020
+Targeted engineering of the Drosophila genome
+J Huang, W Zhou, W Dong, Y Hong
+Fly 3 (4), 274-277
+27 2009
+A multi-source 120-year US flood database with a unified common format and public
+access
+Z Li, M Chen, S Gao, JJ Gourley, T Yang, X Shen, R Kolar, Y Hong
+Earth System Science Data Discussions 2021, 1-25
+26 2021
+Experimental demonstration of performance-enhanced MIMO-OFDM visible light
+communications
+Y Hong, LK Chen, J Zhao
+Optical Fiber Communication Conference, Th1E. 2
+26 2017
+Coupling terrestrial and atmospheric water dynamics to improve prediction in a changing
+environment
+SW Lyon, F Dominguez, DJ Gochis, NA Brunsell, CL Castro, FK Chow, ...
+Bulletin of the American Meteorological Society 89 (9), 1275-1279
+26 2008
+Satellite-based precipitation estimation using watershed segmentation and growing
+hierarchical self-organizing map
+Y Hong, YM Chiang, Y Liu, KL Hsu, S Sorooshian
+International Journal of Remote Sensing 27 (23), 5165-5184
+26 2006
+On the study of the relation between linear/nonlinear PAPR reduction and transmission
+performance for OFDM-based VLC systems
+H Lu, Y Hong, LK Chen, J Wang
+Optics Express 26 (11), 13891-13901
+25 2018
+Fast hydrological model calibration based on the heterogeneous parallel computing
+accelerated shuffled complex evolution method
+G Kan, X He, L Ding, J Li, Y Hong, D Zuo, M Ren, T Lei, K Liang
+Engineering Optimization 50 (1), 106-119
+25 2018
+中国环境影响评价 (EIA) 中的公众参与
+洪阳， 栾胜基
+重庆环境科学 21 (1), 28-30
+25 1999
+Mapping dynamic non-perennial stream networks using high-resolution distributed
+hydrologic simulation: A case study in the upper blue river basin
+S Gao, M Chen, Z Li, S Cook, D Allen, T Neeson, T Yang, T Yami, Y Hong
+Journal of Hydrology 600, 126522
+24 2021
+Industrial water pollution discharge taxes in China: A multi-sector dynamic analysis
+X Guo, MS Ho, L You, J Cao, Y Fang, T Tu, Y Hong
+Water 10 (12), 1742
+24 2018
+Landslides susceptibility mapping in Oklahoma state using GIS-based weighted linear
+combination method
+X He, Y Hong, X Yu, AB Cerato, X Zhang, M Komac
+Landslide Science for a Safer Geoenvironment: Volume 2: Methods of Landslide …
+24 2014
+Correction of radar QPE errors for nonuniform VPRs in mesoscale convective systems
+using TRMM observations
+Y Qi, J Zhang, Q Cao, Y Hong, XM Hu
+Journal of Hydrometeorology 14 (5), 1672-1682
+24 2013
+Differential gene expression in Schistosoma japonicum schistosomula from Wistar rats
+and BALB/c mice
+J Peng, H Han, GN Gobert, Y Hong, W Jiang, X Wang, Z Fu, J Liu, Y Shi, ...
+Parasites & vectors 4 (1), 155
+24 2011
+HsuK., SorooshianS., and GaoX., 2004: Precipitation estimation from remotely sensed
+imagery using an artificial neural network cloud classification system
+Y Hong, K Hsu, S Sorooshian
+J. Appl. Meteor 43, 1834-1853.10
+24
+How has the latest IMERG V07 improved the precipitation estimates and hydrologic utility
+over CONUS against IMERG V06?
+S Zhu, Z Li, M Chen, Y Wen, S Gao, J Zhang, J Wang, Y Nan, SC Ferraro, ...
+Journal of Hydrology 645, 132257
+23 2024
+Spatiotemporal variability of global river extent and the natural driving factors revealed by
+decades of Landsat observations, GRACE gravimetry observations, and land surface …
+S Gao, Z Li, M Chen, P Lin, Z Hong, D Allen, T Neeson, Y Hong
+Remote Sensing of Environment 267, 112725
+23 2021
+Observed trends of different rainfall intensities and the associated spatiotemporal
+variations during 1958–2016 in Guangxi, China
+NX Qin, JN Wang, L Gao, Y Hong, JL Huang, QQ Lu
+International Journal of Climatology 41, E2880-E2895
+23 2021
+An improved coupled routing and excess storage (CREST) distributed hydrological model
+and its verification in Ganjiang River Basin, China
+G Kan, G Tang, Y Yang, Y Hong, J Li, L Ding, X He, K Liang, L He, Z Li, ...
+Water 9 (11), 904
+23 2017
+Usage of existing meteorological data networks for parameterized road ice formation
+modeling
+BA Toms, JB Basara, Y Hong
+Journal of Applied Meteorology and Climatology 56 (7), 1959-1976
+23 2017
+Rainstorm-induced shallow landslides process and evaluation–a case study from three
+hot spots, China
+W Li, C Liu, Y Hong, M Saharia, W Sun, D Yao, W Chen
+Geomatics, Natural Hazards and Risk 7 (6), 1908-1918
+23 2016
+Hydrologic Remote Sensing: Capacity Building for Sustainability and Resilience
+Y Hong, Y Zhang, S Khan
+CRC Press, ISBN 9781498726665 1, 395 Pages
+23 2016
+Comparison of satellite-estimated and model-forecasted rainfall data during a deadly
+debris-flow event in Zhouqu, Northwest China
+J Wang, HJ Wang, Y Hong
+Atmospheric and Oceanic Science Letters 9 (2), 139-145
+23 2016
+Characterization and Expression of the Schistosoma japonicum Thioredoxin Peroxidase-2
+Gene
+Y Hong, Y Han, Z Fu, H Han, C Qiu, M Zhang, J Yang, Y Shi, X Li, J Lin
+The Journal of Parasitology 99 (1), 68-76
+23 2013
+A novel multiple flow direction algorithm for computing the topographic wetness index
+B Yong, LL Ren, Y Hong, JJ Gourley, X Chen, YJ Zhang, XL Yang, ...
+Hydrology research 43 (1-2), 135-145
+23 2012
+Spatial verification using a true metric
+M Zhu, V Lakshmanan, P Zhang, Y Hong, K Cheng, S Chen
+Atmospheric research 102 (4), 408-419
+23 2011
+Enhancing SWOT discharge assimilation through spatiotemporal correlations
+Y Yang, P Lin, CK Fisher, M Turmon, J Hobbs, CM Emery, JT Reager, ...
+Remote Sensing of Environment 234, 111450
+22 2019
+A heterogeneous computing accelerated SCE-UA global optimization method using
+OpenMP, OpenCL, CUDA, and OpenACC
+G Kan, X He, L Ding, J Li, K Liang, Y Hong
+Water Science and Technology 76 (7), 1640-1651
+22 2017
+Evaluation of MRMS snowfall products over the western United States
+Y Wen, P Kirstetter, JJ Gourley, Y Hong, A Behrangi, Z Flamig
+Journal of Hydrometeorology 18 (6), 1707-1713
+22 2017
+Spectral Angle Mapper and aeromagnetic data integration for gold-associated alteration
+zone mapping: a case study for the Central Eastern Desert Egypt
+E Hasan, T Fagin, Z El Alfy, Y Hong
+International Journal of Remote Sensing 37 (8), 1762-1776
+22 2016
+Using citizen science reports to evaluate estimates of surface precipitation type
+S Chen, JJ Gourley, Y Hong, Q Cao, N Carr, PE Kirstetter, J Zhang, ...
+Bulletin of the American Meteorological Society 97 (2), 187-193
+22 2016
+A comparative study of SIP overload control algorithms
+Y Hong, C Huang, J Yan
+Network and traffic engineering in emerging distributed computing …
+22 2013
+Developmentevaluation of an actual evapotranspiration estimation algorithm using
+satellite remote sensingmeteorological observational network in Oklahoma
+S Ibrahim Khan, Y Hong, B Vieux, W Liu
+International Journal of Remote Sensing 31 (14), 3799-3819
+22 2010
+2 Global precipitation estimation from satellite image using artificial neural networks
+S Sorooshian, KL Hsu, B Imam, Y Hong
+Hydrological Modelling in Arid and Semi-Arid Areas, 21
+22 2007
+Calibration of weather radar using region probability matching method (RPMM)
+H Ayat, M Reza Kavianpour, S Moazami, Y Hong, E Ghaemi
+Theoretical and Applied Climatology 134 (1), 165-176
+21 2018
+Cross-evaluation of reflectivity from the space-borne precipitation radar and multi-type
+ground-based weather radar network in China
+L Zhong, R Yang, Y Wen, L Chen, Y Gou, R Li, Q Zhou, Y Hong
+Atmospheric Research 196, 200-210
+21 2017
+Vaccination with recombinant paramyosin in Montanide ISA206 protects against
+Schistosoma japonicum infection in water buffalo
+HW Wu, ZQ Fu, K Lu, S Pond-Tor, R Meng, Y Hong, K Chu, H Li, M Jiz, ...
+Vaccine 35 (26), 3409-3415
+21 2017
+Analysis of precipitation projections over the climate gradient of the Arkansas Red River
+basin
+L Qiao, CB Zou, CF Gaitán, Y Hong, RA McPherson
+Journal of Applied Meteorology and Climatology 56 (5), 1325-1336
+21 2017
+Changes in microRNA expression in response to Schistosoma japonicum infection
+Y Hong, Z Fu, X Cao, J Lin
+Parasite Immunology 39 (2), e12416
+21 2017
+A public Cloud-based China’s Landslide Inventory Database (CsLID): development, zone,
+and spatiotemporal analysis for significant historical events, 1949-2011
+W Li, C Liu, Y Hong, X Zhang, Z Wan, M Saharia, W Sun, D Yao, W Chen, ...
+Journal of Mountain Science 13 (7), 1275-1285
+21 2016
+Eco-environmental vulnerability assessment for large drinking water resource: a case
+study of Qiandao Lake Area, China
+Q Gu, J Li, J Deng, Y Lin, L Ma, C Wu, K Wang, Y Hong
+Frontiers of Earth Science 9 (3), 578-589
+21 2015
+Comparison of the differential expression miRNAs in Wistar rats before and 10 days after
+S.japonicum infection
+H Han, J Peng, Y Hong, M Zhang, Y Han, Z Fu, Y Shi, J Xu, J Tao, J Lin
+Parasites & vectors 6 (1), 120
+21 2013
+Gene Gun Bombardment with DNA-Coated Golden Particles Enhanced the Protective
+Effect of a DNA Vaccine Based on Thioredoxin Glutathione Reductase of Schistosoma
+japonicum
+Y Cao, B Zhao, Y Han, J Zhang, X Li, C Qiu, X Wu, Y Hong, D Ai, J Lin, ...
+BioMed Research International 2013 (1), 952416
+21 2013
+Aspects of coupled hydrologic-hydrodynamic modeling for coastal flood inundation
+E Tromble, R Kolar, K Dresback, Y Hong, B Vieux, R Luettich, J Gourley, ...
+Estuarine and Coastal Modeling (2009), 724-743
+21 2010
+Weather radar education at the University of Oklahoma: An integrated interdisciplinary
+approach
+R Palmer, M Yeary, M Biggerstaff, P Chilson, J Crain, K Droegemeier, ...
+Bulletin of the American Meteorological Society 90 (9), 1277-1282
+21 2009
+跨世纪的⽔资源管理
+洪阳， 栾胜基
+世界环境, 26-27
+21 1999
+H. Moradkhani, and S. Sorooshian, 2006: Uncertainty quantification of satellite
+precipitation estimation and Monte Carlo assessment of the error propagation into
+hydrologic …
+Y Hong, KL Hsu
+Water Resour. Res 42 (8)
+21
+An overview and outlook of global water remote sensing technology and applications
+G Tang, D Long, W Wan, ZY Zeng, XL Guo, Y Hong
+Scientia Sinica (Technologica) 45 (10), 1013-1023
+20 2015
+Flood hazard and disaster
+Y Hong, P Adhikari, JJ Gourley
+Encyclopedia of natural hazards, 326-336
+20 2013
+Ultrastructural observation and gene expression profiling of Schistosoma japonicum
+derived from two natural reservoir hosts, water buffalo and yellow cattle
+J Yang, X Feng, Z Fu, C Yuan, Y Hong, Y Shi, M Zhang, J Liu, H Li, K Lu, ...
+PLoS One 7 (10), e47660
+20 2012
+Modeling and simulation of SIP tandem server with finite buffer
+Y Hong, C Huang, J Yan
+ACM Transactions on Modeling and Computer Simulation (TOMACS) 21 (2), 1-27
+20 2011
+Satellite-based observations of hydrological processes
+Q Tang, M Durand, DP Lettenmaier, Y Hong
+International Journal of Remote Sensing 31 (14), 3661-3667
+20 2010
+Rainfall estimation using a cloud patch classification map
+KL Hsu, Y Hong, S Sorooshian
+Measuring Precipitation From Space: EURAINSAT and the Future, 329-342
+20 2007
+The TRMM multi-satellite precipitation analysis: Quasi-global, multi-year, combinedsensor
+precipitation estimates at finescale
+KP Bowman, Y Hong, EF Stocker, DB Wol
+J. Hydrometeorol 8, 3855
+20 2007
+Design of an adaptive PI rate controller for streaming media traffic based on gain and
+phase margins
+Y Hong, OWW Yang
+IEE Proceedings-Communications 153 (1), 5-14
+20 2006
+A flood predictability study for Hurricane Harvey with the CREST-iMAP model using highresolution
+quantitative precipitation forecasts and U-Net deep learning precipitation …
+M Chen, Z Li, S Gao, M Xue, JJ Gourley, RL Kolar, Y Hong
+Journal of Hydrology 612, 128168
+19 2022
+Can the accuracy of sea surface salinity measurement be improved by incorporating
+spaceborne GNSS-reflectometry?
+B Liu, W Wan, Y Hong
+IEEE Geoscience and Remote Sensing Letters 18 (1), 3-7
+19 2020
+Heterogeneous parallel computing accelerated generalized likelihood uncertainty
+estimation (GLUE) method for fast hydrological model uncertainty analysis purpose
+G Kan, X He, L Ding, J Li, Y Hong, K Liang
+Engineering with Computers 36 (1), 75-96
+19 2020
+Encounter risk analysis of rainfall and reference crop evapotranspiration in the irrigation
+district
+J Zhang, X Lin, Y Zhao, Y Hong
+Journal of hydrology 552, 62-69
+19 2017
+Developing the remote sensing-gash analytical model for estimating vegetation rainfall
+interception at very high resolution: A case study in the Heihe River Basin
+Y Cui, P Zhao, B Yan, H Xie, P Yu, W Wan, W Fan, Y Hong
+Remote Sensing 9 (7), 661
+19 2017
+Wavelet-cointegration prediction of irrigation water in the irrigation district
+J Zhang, Y Li, Y Zhao, Y Hong
+Journal of Hydrology 544, 343-351
+19 2017
+GDBC: A tool for generating global-scale distributed basin morphometry
+X Shen, HJ Vergara, EI Nikolopoulos, EN Anagnostou, Y Hong, Z Hao, ...
+Environmental Modelling & Software 83, 212-223
+19 2016
+Evaluation of a method to enhance real-time, ground radar–based rainfall estimates using
+climatological profiles of reflectivity from space
+Y Wen, P Kirstetter, Y Hong, JJ Gourley, Q Cao, J Zhang, Z Flamig, X Xue
+Journal of hydrometeorology 17 (3), 761-775
+19 2016
+Significant winter weather events and associated socioeconomic impacts (federal aid
+expenditures) across Oklahoma: 2000–10
+T Grout, Y Hong, J Basara, B Balasundaram, Z Kong, STS Bukkapatnam
+Weather, Climate, and Society 4 (1), 48-58
+19 2012
+American Heart Association Council on Epidemiology and Prevention; Council on
+Lifestyle and Cardiometabolic Health; Council on Arteriosclerosis, Thrombosis and
+Vascular Biology …
+TW Kwan, SS Wong, Y Hong, AM Kanaya, SS Khan, LL Hayman, ...
+Circulation 148 (1), 74-94
+18 2023
+Downscaling of ERA-interim temperature in the contiguous United States and its
+implications for rain–snow partitioning
+G Tang, A Behrangi, Z Ma, D Long, Y Hong
+Journal of Hydrometeorology 19 (7), 1215-1233
+18 2018
+GNSS 遥感研究与应⽤进展和展望.
+万玮， 陈秀万， 彭学峰， ⽩伟华， 夏俊明， 梁宏， 张学⺠， 熊攀， 杨婷， ...
+Journal of Remote Sensing 20 (5)
+18 2016
+Land use changes induced soil organic carbon variations in agricultural soils of Fuyang
+County, China
+L Qiu, J Zhu, Y Zhu, Y Hong, K Wang, J Deng
+Journal of soils and sediments 13 (6), 981-988
+18 2013
+Protective efficacy evaluation induced by recombinant protein LHD-Sj23-GST of
+Schistosoma japonicum emulsified with three different adjuvants
+Z Zhu, Z Fu, M Zhang, Y Han, Y Hong, D Li, Z Zhao, Y Shi, X Li, J Lin
+Parasite immunology 34 (6), 341-344
+18 2012
+Adaptive AQM controllers for IP routers with a heuristic monitor on TCP flows
+Y Hong, OWW Yang
+International Journal of Communication Systems 19 (1), 17-38
+18 2006
+Modeling and prediction of NPP-VIIRS nighttime light imagery based on spatiotemporal
+statistical method
+Y Ye, J Deng, L Huang, Q Zheng, K Wang, C Tong, Y Hong
+IEEE Transactions on Geoscience and Remote Sensing 59 (6), 4934-4946
+17 2020
+Spaceborne GNSS-R observation of global lake level: First results from the
+TechDemoSat-1 mission
+L Xu, W Wan, X Chen, S Zhu, B Liu, Y Hong
+Remote Sensing 11 (12), 1438
+17 2019
+Performance of multi-level association rule mining for the relationship between causal
+factor patterns and flash flood magnitudes in a humid area
+M Zhong, T Jiang, Y Hong, X Yang
+Geomatics, Natural Hazards and Risk 10 (1), 1967-1987
+17 2019
+A novel hybrid data-driven model for multi-input single-output system simulation
+G Kan, X He, J Li, L Ding, D Zhang, T Lei, Y Hong, K Liang, D Zuo, Z Bao, ...
+Neural Computing and Applications 29 (7), 577-593
+17 2018
+Intercomparison of precipitation estimates from WSR-88D radar and TRMM measurement
+over continental United States
+S Chen, Y Hong, Q Cao, Y Tian, J Hu, X Zhang, W Li, N Carr, X Shen, ...
+IEEE Transactions on Geoscience and Remote Sensing 53 (8), 4444-4456
+17 2015
+Incorporating surface soil moisture information in error modeling of TRMM passive
+Microwave rainfall
+H Seyyedi, EN Anagnostou, PE Kirstetter, V Maggioni, Y Hong, JJ Gourley
+IEEE Transactions on Geoscience and Remote Sensing 52 (10), 6226-6240
+17 2014
+Differential expression of microRNAs in the non-permissive schistosome host Microtus
+fortis under schistosome infection
+H Han, J Peng, Y Han, M Zhang, Y Hong, Z Fu, J Yang, J Tao, J Lin
+PloS one 8 (12), e85080
+17 2013
+Applying control theoretic approach to mitigate SIP overload
+Y Hong, C Huang, J Yan
+Telecommunication Systems 54 (4), 387-404
+17 2013
+Cloning, expression, and characterization of Schistosoma japonicum tegument protein
+phosphodiesterase-5
+M Zhang, Y Han, Z Zhu, D Li, Y Hong, X Wu, Z Fu, J Lin
+Parasitology Research 110 (2), 775-786
+17 2012
+Impact of retransmission mechanism on sip overload: stability condition and overload
+control
+C Huang
+Journal of Networks
+17 2012
+Orientation angle calibration for bare soil moisture estimation using fully polarimetric SAR
+data
+X Shen, Y Hong, Q Qin, W Yuan, S Chen, S Zhao, T Grout
+IEEE transactions on geoscience and remote sensing 49 (12), 4987-4996
+17 2011
+Determining the minimum ecological water requirements in Perennial rives using
+morphological parameters
+A Shokouhi, Y Hong
+Journal of Environmental Studies 37 (58), 117-128
+17 2011
+Schistosoma japonicum: cloning, expression and characterization of a gene encoding the
+α5-subunit of the proteasome
+Y Hong, H Han, J Peng, Y Li, Y Shi, Z Fu, J Liu, J Lin, X Li
+Experimental parasitology 126 (4), 517-525
+17 2010
+Self-tuning TCP traffic controller using gain margin specification
+Y Hong, OWW Yang
+IET communications 1 (1), 27-33
+17 2007
+Small increases in stream drying can dramatically reduce ecosystem connectivity
+MC Malish, S Gao, D Kopp, Y Hong, DC Allen, T Neeson
+Ecosphere 14 (3), e4450
+16 2023
+Inundation Extent Mapping by Synthetic Aperture Radar: A Review, Remote Sens., 11,
+879
+X Shen, D Wang, K Mao, E Anagnostou, Y Hong
+16 2019
+An efficient and effective approach for georeferencing AVHRR and GaoFen-1 imageries
+using inland water bodies
+S Zhu, W Wan, H Xie, B Liu, H Li, Y Hong
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote …
+16 2018
+iTRAQ-Based Comparative Proteomic Analysis of Adult Schistosoma japonicum from
+Water Buffalo and Yellow Cattle
+Q Zhai, Z Fu, Y Hong, X Yu, Q Han, K Lu, H Li, X Dou, C Zhu, J Liu, J Lin, ...
+Frontiers in microbiology 9, 99
+16 2018
+海洋⼤数据: 内涵, 应⽤及平台建设
+侯雪燕， 洪阳， 张建⺠， 邹亚荣， ⽯晓勇， 任⼒波， 程晓， 张彪， 于华明， ...
+海洋通报 36 (4), 361-369
+16 2017
+Evaluation of global daily reference ET using Oklahoma’s environmental monitoring
+network—MESONET
+W Liu, Y Hong, S Khan, M Huang, T Grout, P Adhikari
+Water resources management 25 (6), 1601-1613
+16 2011
+Predictability of a physically based model for rainfall-induced shallow landslides: Model
+development and case studies
+Y Hong, X He, A Cerato, K Zhang, Z Hong, Z Liao
+Modern technologies for landslide monitoring and prediction, 165-178
+15 2015
+全球⽔遥感技术及其应⽤研究的综述与展望
+唐国强， ⻰笛， 万玮， 曾⼦悦， 郭晓林， 洪阳
+中国科学: 技术科学, 1013-1023
+15 2015
+A novel big data mining framework for reconstructing large-scale daily MAIAC AOD data
+across China from 2000 to 2020
+B Chen, Y Ye, C Tong, J Deng, K Wang, Y Hong
+GIScience & Remote Sensing 59 (1), 670-685
+14 2022
+Cross-examining precipitation products by rain gauge, remote sensing, and wrf
+simulations over a south american region across the pacific coast and andes
+M Chen, Y Huang, Z Li, AJM Larico, M Xue, Y Hong, XM Hu, HM Novoa, ...
+Atmosphere 13 (10), 1666
+14 2022
+Using the apriori algorithm and Copula function for the bivariate analysis of flash flood risk
+M Zhong, J Wang, T Jiang, Z Huang, X Chen, Y Hong
+Water 12 (8), 2223
+14 2020
+Fuzzy risk assessment of flash floods using a cloud-based information diffusion approach
+M Zhong, J Wang, L Gao, K Lin, Y Hong
+Water Resources Management 33 (7), 2537-2553
+14 2019
+2.38 Kbits/frame WDM transmission over a CVLC system with sampling reconstruction for
+SFO mitigation
+R Deng, J He, Y Hong, J Shi, L Chen
+Optics express 25 (24), 30575-30581
+14 2017
+Suppression of VAMP2 Alters Morphology of the Tegument and Affects Glucose uptake,
+Development and Reproduction of Schistosoma japonicum
+Q Han, B Jia, Y Hong, X Cao, Q Zhai, K Lu, H Li, C Zhu, Z Fu, Y Shi, J Lin
+Scientific Reports 7 (1), 5212
+14 2017
+Introducing Flashiness-Intensity-Duration-Frequency (F-IDF): A new metric to quantify
+flash flood intensity
+Z Li, S Gao, M Chen, J Zhang, JJ Gourley, Y Wen, T Yang, Y Hong
+Geophysical Research Letters 50 (23), e2023GL104992
+13 2023
+Development of a new rainfall-triggering index of flash flood warning-case study in
+Yunnan province, China
+M Ma, H Wang, Y Yang, G Zhao, G Tang, Z Hong, RA Clark III, Y Chen, ...
+Journal of Flood Risk Management 14 (1), e12676
+13 2021
+Construct channel network topology from remote sensing images by morphology and
+graph analysis
+X Chen, X Shen, H Li, Y Cui, B Liu, W Fang, Q Yang, Y Hong
+IEEE Geoscience and Remote Sensing Letters 17 (7), 1163-1167
+13 2019
+Wavelet-nonlinear cointegration prediction of irrigation water in the irrigation district
+J Zhang, H Li, X Shi, Y Hong
+Water Resources Management 33 (8), 2941-2954
+13 2019
+High resistance of water buffalo against reinfection with Schistosoma japonicum
+C He, Y Mao, X Zhang, H Li, K Lu, Z Fu, Y Hong, Y Tang, Y Jin, J Lin, J Liu
+Veterinary Parasitology 261, 18-21
+13 2018
+On-orbit space camera self-calibration based on the orthogonal vanishing points obtained
+from solar panels
+G Zhang, H Zhao, Y Hong, Y Ma, J Li, H Guo
+Measurement Science and Technology 29 (6), 065013
+13 2018
+Research on flood forecasting based on coupled machine learning models
+G Kan, Y Hong, K Liang
+China Rural Water Hydropower 10, 165-169
+13 2018
+A candidate recombinant antigen for diagnosis of schistosomiasis japonica in domestic
+animals
+J Feng, R Xu, X Zhang, Y Han, C He, C Lu, Y Hong, K Lu, H Li, Y Jin, J Lin, ...
+Veterinary Parasitology 243, 242-247
+13 2017
+Biochemical properties and vaccine effect of recombinant TPx-3 from Schistosoma
+japonicum
+Y Han, B Zhao, M Zhang, Y Hong, H Han, X Cao, K Lu, J Lin, Z Fu
+Parasitology research 116 (4), 1361-1372
+13 2017
+Introduction: Remote sensing techniques for landslide mapping and monitoring
+V Tofani, Y Hong, V Singhroy
+Landslide Science for a Safer Geoenvironment: Volume 2: Methods of Landslide …
+13 2014
+GNSS-R 遥感观测模式及陆⾯应⽤
+万玮， 李⻩， 洪阳， 陈秀万， 彭学峰
+遥感学报 19 (6), 882-893
+12 2021
+Application of spatiotemporal predictive learning in precipitation nowcasting
+C Wang, Y Hong
+AGU Fall Meeting Abstracts 2018, H31H-1988
+12 2018
+暴⾬致洪预报系统及其评估
+⽢衍军， 徐晶， 赵平， 洪阳， 谌芸， 郝莹， 包红军， 曾⼦悦， 徐辉， 狄靖⽉
+应⽤⽓象学报 28 (4), 385-398
+12 2017
+Nested-PCR assay for detection of Schistosoma japonicum infection in domestic animals
+X Zhang, CC He, JM Liu, H Li, K Lu, ZQ Fu, CG Zhu, YP Liu, LB Tong, ...
+Infectious Diseases of Poverty 6 (1), 86
+12 2017
+The Flooded Locations And Simulated Hydrographs (FLASH) project: improving the tools
+for flash flood monitoring and prediction across the United States
+JJ Gourley, ZL Flamig, H Vergara, PE Kirstetter, RA Clark, E Argyle, ...
+12 2017
+Black ice detection and road closure control system for Oklahoma.
+T Liu, N Wang, H Yu, J Basara, Y Hong, S Bukkapatnam
+Oklahoma. Dept. of Transportation. Planning and Research Division
+12 2014
+Hydrologic evaluation of TMPA standard precipitation products in basins beyond its
+inclined latitude band: A case study in Laohahe Basin, China
+B Yong, L Ren, Y Hong, J Wang, JJ Gourley, SH Jiang, X Chen, W Wang
+Water Resour. Res 46 (7), W07542
+12 2010
+Simulation and jamming model of infrared bait
+Y Hong, K Zhang, YJ Li
+Journal of System Simulation 18 (2), 463-466
+12 2006
+中国⼆⼗⼀世纪的⽔安全问题
+栾胜基， 洪阳
+中国环境管理 (吉林), 4-7
+12 1998
+On CSI-free linear equalization for optical fast-OFDM over visible light communications
+Y Shao, Y Hong, LK Chen
+2018 Optical Fiber Communications Conference and Exposition (OFC), 1-3
+11 2018
+Phosphorylation potential of Drosophila E-Cadherin intracellular domain is essential for
+development and adherens junction biosynthetic dynamics regulation
+YJ Chen, J Huang, L Huang, E Austin, Y Hong
+Development 144 (7), 1242-1248
+11 2017
+An improved hybrid data-driven model and its application in daily rainfall-runoff simulation
+G Kan, X He, L Ding, J Li, T Lei, K Liang, Y Hong
+IOP Conference Series: Earth and Environmental Science 46 (1), 012029
+11 2016
+Microarray Analysis of Gene Expression Profiles of Schistosoma japonicum Derived from
+Less-Susceptible Host Water Buffalo and Susceptible Host Goat
+J Yang, Y Hong, C Yuan, Z Fu, Y Shi, M Zhang, L Shen, Y Han, C Zhu, ...
+PloS one 8 (8), e70367
+11 2013
+W:: Neo: a novel dual-selection marker for high efficiency gene targeting in Drosophila
+W Zhou, J Huang, AM Watson, Y Hong
+PLoS One 7 (2), e31997
+11 2012
+Controlling retransmission rate for mitigating SIP overload
+Y Hong, C Huang, J Yan
+2011 IEEE International Conference on Communications (ICC), 1-5
+11 2011
+A proportional controller for AQM routers supporting TCP flows with simulation using
+OPNET modeler
+Y Hong, Q Chen, OWW Yang
+OPNETWORK 2002, 26-30
+11 2002
+Triple collocation of ground-, satellite-and land surface model-based surface soil moisture
+products in Oklahoma—Part I: Individual product assessment
+Z Hong, HA Moreno, Z Li, S Li, JS Greene, Y Hong, LV Alvarez
+Remote Sensing 14 (22), 5641
+10 2022
+Can re-infiltration process be ignored for flood inundation mapping and prediction during
+extreme storms? A case study in Texas Gulf Coast region
+Z Li, M Chen, S Gao, Y Wen, JJ Gourley, T Yang, R Kolar, Y Hong
+Environmental Modelling & Software 155, 105450
+10 2022
+Statistical analysis of CyGNSS speckle and its applications to surface water mapping
+B Liu, W Wan, G Tang, H Li, Z Guo, X Chen, Y Hong
+IEEE Transactions on Geoscience and Remote Sensing 60, 1-15
+10 2022
+First assessment of CyGNSS-incorporated SMAP sea surface salinity retrieval over pantropical
+ocean
+B Liu, W Wan, Z Guo, R Ji, T Wang, G Tang, Y Cui, Y Hong
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote …
+10 2021
+RETRACTED ARTICLE: Evaluating applicability of multi-source precipitation datasets for
+runoff simulation of small watersheds: a case study in the United States
+K Feng, Y Hong, J Tian, X Luo, G Tang, G Kan
+European Journal of Remote Sensing 54 (sup2), 372-382
+10 2021
+Reservoir scheduling using a multi-objective cuckoo search algorithm under climate
+change in jinsha river, china
+Y Feng, J Xu, Y Hong, Y Wang, Z Yuan, C Wang
+Water 13 (13), 1803
+10 2021
+Uncertainty analysis of radar rainfall estimates over two different climates in Iran
+E Ghaemi, M Kavianpour, S Moazami, Y Hong, H Ayat
+International Journal of Remote Sensing 38 (18), 5106-5126
+10 2017
+FERM domain phosphorylation and endogenous 3'UTR are not essential for regulating
+the function and subcellular localization of polarity protein Crumbs
+H Cao, R Xu, Q Shi, D Zhang, J Huang, Y Hong
+Journal of genetics and genomics= Yi chuan xue bao 44 (8), 409-412
+10 2017
+A high-resolution flood forecasting and monitoring system for China using satellite remote
+sensing data
+J Wang, HJ Wang, Y Hong
+Chin. Sci. Bull 61 (4-5), 518
+10 2016
+A semiphysical microwave surface emission model for soil moisture retrieval
+X Shen, Y Hong, Q Qin, JB Basara, K Mao, D Wang
+IEEE Transactions on Geoscience and Remote Sensing 53 (7), 4079-4090
+10 2015
+Enhancing quantitative precipitation estimation over the continental United States using a
+ground-space multi-sensor integration approach
+Q Cao, Y Wen, Y Hong, JJ Gourley, PE Kirstetter
+IEEE Geoscience and Remote Sensing Letters 11 (7), 1305-1309
+10 2014
+Stability condition for SIP retransmission mechanism: Analysis and performance
+evaluation
+Y Hong, C Huang, J Yan
+Proceedings of the 2010 International Symposium on Performance Evaluation of …
+10 2010
+Use of 21st century satellite remote sensing technology in natural hazard analysis
+Y Hong, R Adler, J Verdin
+Natural Hazards 43 (2), 165-166
+10 2007
+A PI controller for AQM routers supporting TCP flows
+Y Hong, Q Chen, OWW Yang
+Proc. of the IASTED AMS 2002, 4-6
+10 2002
+Effects of lower troposphere vertical mixing on simulated clouds and precipitation over the
+Amazon during the wet season
+XM Hu, Y Huang, M Xue, E Martin, Y Hong, M Chen, HM Novoa, ...
+Journal of Geophysical Research: Atmospheres 128 (12), e2023JD038553
+9 2023
+CREST-VEC: a framework towards more accurate and realistic flood simulation across
+scales
+Z Li, S Gao, M Chen, J Gourley, N Mizukami, Y Hong
+Geoscientific Model Development Discussions 2022, 1-30
+9 2022
+Characterization of Schistosoma japonicum tetraspanning orphan receptor and its role in
+binding to complement C2 and immunoprotection against murine …
+S Ma, J Zai, Y Han, Y Hong, M Zhang, X Cao, Q Han, K Lu, Z Zhao, J Lin, ...
+Parasites & Vectors 10 (1), 288
+9 2017
+基于滑坡敏感性与降⾬强度-历时的中国浅层降⾬滑坡时空分析与模拟
+李巍岳， 刘春， 孙伟伟， 陈钰， 姚东京， 陈⽣， 洪阳， 张凯航， 程国栋
+中国科学: 地球科学 47 (4), 473-484
+9 2017
+Mapping the precipitation type distribution over the contiguous United States using
+NOAA/NSSL national multi-sensor mosaic QPE
+S Chen, J Zhang, E Mullens, Y Hong, A Behrangi, Y Tian, XM Hu, J Hu, ...
+IEEE Transactions on Geoscience and Remote Sensing 53 (8), 4434-4443
+9 2015
+作为外辐射源雷达的 GNSS-R 遥感多极化问题
+万玮， 李⻩， 洪阳
+雷达学报 3 (6), 641-651
+9 2014
+Impact of assimilating spaceborne microwave signals for improving hydrological
+prediction in ungauged basins
+Y Zhang, Y Hong, JJ Gourley, X Wang, GR Brakenridge, T De Groeve, ...
+Remote sensing of the terrestrial water cycle, 439-450
+9 2014
+基于天⽓雷达的⻓江三峡区间降⾬定量估测⽅法
+李哲， 杨⼤⽂， 洪阳
+⽔⼒发电学报 33 (3), 29-35
+9 2014
+Cloning, expression, and preliminary characterization of the dysferlin tegument protein in
+Schistosoma japonicum
+Y Xiong, D Ai, P Meng, M Wei, Y Hong, M Zhang, L Huang, Z Fu, Y Shi, ...
+Parasitology International 62 (6), 522-529
+9 2013
+Modeling and design of a Session Initiation Protocol overload control algorithm
+Y Hong, C Huang, J Yan
+Simulation 88 (11), 1294-1315
+9 2012
+城市⽔资源系统综合评价指标体系初探
+洪阳， 曹静
+上海环境科学 19 (6), 269-271
+9 2000
+Monitoring drought through the lens of landsat: Drying of rivers during the california
+droughts
+S Gao, Z Li, M Chen, D Allen, T Neeson, Y Hong
+Remote sensing 13 (17), 3423
+8 2021
+多源降⽔数据的⼩流域⽔⽂模拟效⽤评估
+冯克鹏， 洪阳， ⽥军仓， 唐国强， 阚光远， 罗翔宇
+⼲旱区地理 43 (5), 1179-1191
+8 2020
+Flood monitoring system using distributed hydrologic modeling for Indus River Basin
+SI Khan, Z Flamig, Y Hong
+Indus River Basin, 335-355
+8 2019
+Spatiotemporal assessment of induced seismicity in Oklahoma: Foreseeable fewer
+earthquakes for sustainable oil and gas extraction?
+Z Hong, HA Moreno, Y Hong
+Geosciences 8 (12), 436
+8 2018
+A perspective for improving the sensitivity of detection: the application of multi-epitope
+recombinant antigen in serological analysis of buffalo schistosomiasis
+C Lv, Z Fu, K Lu, R Yue, T Wang, X Cao, C Zhu, H Li, Y Hong, J Lin
+Acta Tropica 183, 14-18
+8 2018
+基于多源卫星观测的中国⼟壤湿度时空特征分析
+刘荣华， 张珂， 晁丽君， 王⻘⻘， 洪阳， 涂勇， 曲伟
+⽔科学进展 28 (4), 479-487
+8 2017
+Analysis of spatiotemporal characteristics of surface soil moisture across China based on
+multi-satellite observations
+R LIU, K ZHANG, L CHAO, Q WANG, Y HONG, Y TU, W QU
+Advances in Water Science 28 (4), 479-487
+8 2017
+Deletion of Numb/Numblike in glutamatergic neurons leads to anxiety-like behavior in
+mice
+W Qian, Y Hong, M Zhu, L Zhou, H Li, H Li
+Brain research 1665, 36-49
+8 2017
+Evaluation of radar-based precipitation estimates for flash flood forecasting in the Three
+Gorges Region
+Z Li, D Yang, Y Hong, Y Qi, Q Cao
+Proceedings of the International Association of Hydrological Sciences 368, 89-95
+8 2015
+⻄藏⾼原汛期降⽔⽇数和强度的时空演变特征
+⻩晓清
+中国沙漠 33 (3), 902
+8 2013
+Significant winter weather events and associated socioeconomic impacts (federal aid
+expenditures) across Oklahoma: 2000–10. Wea. Climate Soc., 4, 48–58, doi: 10.1175
+T Grout, Y Hong, J Basara, B Balasundaram, Z Kong, STS Bukkapatnam
+WCAS-D-11-00057.1. 10.1175/WCAS-D-11-00057.1
+8 2012
+Design of a PI rate controller for mitigating SIP overload
+Y Hong, C Huang, J Yan
+2011 IEEE International Conference on Communications (ICC), 1-5
+8 2011
+Precipitation estimation from remotely sensed information using ANN-cloud classification
+system
+Y Hong, K Hsu, S Sorooshian
+AGU Fall Meeting Abstracts 2003, H11F-0903
+8 2003
+Drought trend analysis based on the Standardized Precipitation–Evapotranspiration Index
+using NASA’s Earth Exchange Global Daily Downscaled Projections, high spatial
+resolution …
+X Guo, Y Yang, Z Li, L You, C Zeng, J Cao, Y Hong
+Water 11 (12), 2455
+7 2019
+Applying a machine learning method to obtain long time and spatio-temporal continuous
+soil moisture over the Tibetan Plateau
+Y Cui, W Xiong, L Hu, R Liu, X Chen, X Geng, F Lv, W Fan, Y Hong
+IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium …
+7 2019
+基于耦合机器学习模型的洪⽔预报研究
+阚光远， 洪阳， 梁珂
+中国农村⽔利⽔电 10, 165-169
+7 2018
+SNR-threshold based adaptive loading for PAM-Fast-OFDM over optical wireless
+communications
+Y Hong, S Gao, LK Chen, J Zhao
+2018 Optical Fiber Communications Conference and Exposition (OFC), 1-3
+7 2018
+Daily streamflow simulation based on the improved machine learning method
+G Kan, X He, L Ding, J Li, Y Hong, M Ren, T Lei, K Liang, D Zuo, P Huang
+Tecnología y ciencias del agua 8 (2), 51-60
+7 2017
+Adaptive physical-layer network coding over visible light communications
+Y Hong, LK Chen, X Guan
+Optical Fiber Communication Conference, Th1E. 4
+7 2017
+Multiple constraints based robust matching of poor-texture close-range images for
+monitoring a simulated landslide
+G Qiao, H Mi, T Feng, P Lu, Y Hong
+Remote Sensing 8 (5), 396
+7 2016
+海洋⼤数据平台建设及应⽤
+洪阳， 侯雪燕
+卫星应⽤, 26-30
+7 2016
+Development of GIS-based FFPI for China's flash flood forecasting
+Z Zeng, G Tang, D Long, H Xu, Y Chen, Y Hong
+2015 23rd International Conference on Geoinformatics, 1-4
+7 2015
+A study on the cognitive style of software developers
+D Rui, S Wei, Z Li, Y Hong
+ACM Inroads 2 (3), 43-46
+7 2011
+Can API-RCP be TCP friendly with RED?
+Y Hong, OWW Yang
+2008 42nd Annual Conference on Information Sciences and Systems, 1137-1142
+7 2008
+环境影响评价中的公众参与
+洪阳， 栾胜基
+内蒙古环境保护 11 (1), 33-36
+7 1999
+HsuK-L., SorooshianS., and GaoX., 2005: Improved representation of diurnal variability of
+rainfall retrieved from the Tropical Rainfall Measurement Mission Microwave Imager …
+Y Hong
+J. Geophys. Res 110, D06102
+7
+Increasing frequency and precipitation intensity of convective storms in the Peruvian
+Central Andes: Projections from convection-permitting regional climate simulations
+Y Huang, M Xue, XM Hu, E Martin, HM Novoa, RA McPherson, C Liu, ...
+Quarterly Journal of the Royal Meteorological Society 150 (764), 4371-4390
+6 2024
+A decadal review of the CREST model family: Developments, applications, and outlook
+Z Li, X Xue, R Clark, H Vergara, J Gourley, G Tang, X Shen, G Kan, ...
+Journal of Hydrology X 20, 100159
+6 2023
+The conterminous United States are projected to become more prone to flash floods in a
+high-end emissions scenario, Communications Earth & Environment, 3, 86
+Z Li, S Gao, M Chen, JJ Gourley, C Liu, AF Prein, Y Hong
+6 2022
+Spatiotemporal characteristics of US floods: Current status and forecast under a future
+warmer climate, Earth’s Future, 10, e2022EF002700
+Z Li, S Gao, M Chen, JJ Gourley, Y Hong
+6 2022
+Author Correction: A lake data set for the Tibetan Plateau from the 1960s, 2005, and 2014
+W Wan, D Long, Y Hong, Y Ma, Y Yuan, P Xiao, H Duan, Z Han, X Gu
+Scientific Data 6, 190
+6 2019
+Analysis of urban growth from 1960 to 2015 using historical DISP and Landsat time series
+data in Shanghai
+H Mi, G Qiao, W Wang, Y Hong
+Arabian Journal of Geosciences 12 (7), 250
+6 2019
+卫星遥感降⽔的反演, 验证与应⽤综述
+王存光， 洪阳
+⽔利⽔电技术 49 (8), 1-9
+6 2018
+Combined space and ground radars for improving quantitative precipitation estimations in
+the eastern downstream region of the Tibetan plateau. Part I: Variability in the …
+L Zhong, R Yang, L Chen, Y Wen, R Li, G Tang, Y Hong
+Journal of Applied Meteorology and Climatology 56 (8), 2259-2274
+6 2017
+A global distributed basin morphometric dataset, Sci. Data, 4, 160124
+X Shen, EN Anagnostou, Y Mei, Y Hong
+6 2017
+Potential Water Availability Index (PWAI): A new water vulnerability index for Africa Based
+on GRACE data
+E Hasan, A Tarhule, Y Hong, B Moore III
+AGU Fall Meeting Abstracts 2016, GC41B-1099
+6 2016
+Comparison of apoptosis between adult worms of Schistosoma japonicum from
+susceptible (BALB/c mice) and less-susceptible (Wistar rats) hosts
+T Wang, X Guo, Y Hong, H Han, X Cao, Y Han, M Zhang, M Wu, Z Fu, ...
+Gene 592 (1), 71-77
+6 2016
+Non-orthogonal multiple access with multicarrier precoding in visible light communications
+X Guan, Y Hong, CCK Chan
+2016 21st OptoElectronics and Communications Conference (OECC) held jointly …
+6 2016
+The gravity environment of Zhouqu debris flow of August 2010 and its implication for
+future recurrence
+D Ren, LM Leslie, X Shen, Y Hong, Q Duan, R Mahmood, Y Li, G Huang, ...
+6 2015
+Restoration of 1–24 hour dry-bulb temperature gaps for use in building performance
+monitoring and analysis—Part I
+J Hu, OT Ogunsola, L Song, RA McPherson, M Zhu, Y Hong, S Chen
+HVAC&R Research 20 (6), 594-605
+6 2014
+A physically based SLIDE model for landslide hazard assessments using remotely sensed
+data sets
+Z Liao, Y Hong, RF Adler, D Bach
+Geomechanics and geotechnics, 807-813
+6 2011
+An implementation and experimental study of the adaptive PI rate control protocol
+Z Liu, H Wang, W Hu, Y Hong, OWW Yang, Y Shu
+2009 International Conference on High Performance Switching and Routing, 1-6
+6 2009
+Towards a quasi-global precipitation-induced landslide detection system using remote
+sensing information
+B Adler, Y Hong, G Huffman, A Negri, M Pando
+AGU Spring Meeting Abstracts, H23A-04
+6 2006
+Evaluation of IMERG climate trends over land in the TRMM and GPM eras
+S Zhu, Z Li, M Chen, Y Wen, Z Liu, GJ Huffman, TE Tsoodle, SC Ferraro, ...
+Environmental Research Letters 20 (1), 014064
+5 2024
+Conus-wide model calibration and validation for CRESTv3. 0–An improved Coupled
+Routing and Excess STorage distributed hydrological model
+M Chen, Z Li, HJ Vergara, JJ Gourley, M Xue, Y Hong, XM Hu, HM Novoa, ...
+Journal of Hydrology 626, 130333
+5 2023
+Dryland Rivers and Streams
+ZG Compson, WA Monk, R Sarremejane, AG DelVecchia, RM Burrows, ...
+Encyclopedia of Inland Waters, Second Edition, 616-627
+5 2022
+Assessing lake level variability and water availability in Lake Tana, Ethiopia using a
+groundwater flow model and GRACE satellite data
+E Hasan, Z Dokou, PE Kirstetter, A Tarhule, EN Anagnostou, ...
+AGU Fall Meeting Abstracts 2017, H14B-06
+5 2017
+Evaluating multi-scale flow predictions for the Connecticut River Basin
+E Anagnostou, F Zac, H Vergara, Y Hong
+Hydrology: Current Research 6 (2), 1
+5 2015
+Impact of missing passive microwave sensors on multi-satellite precipitation retrieval
+algorithm
+B Yong, B Chen, Y Hong, JJ Gourley, Z Li
+Remote Sensing 7 (1), 668-683
+5 2015
+Will Nzoia basin in Kenya see water deficiency in coming decades as a result of climate
+change.
+P Adhikari, Y Hong
+5 2013
+Intercomparison of Vertical Structure of Storms Revealed by Ground-Based (NMQ) and
+Spaceborne Radars (CloudSat-CPR and TRMM-PR)
+VM Fall, Q Cao, Y Hong
+The Scientific World Journal 2013 (1), 270726
+5 2013
+A matrix inversion approach of computing T-matrix for axially symmetrical particles of
+extreme shape and dielectrically large dimension
+X Shen, Q Qin, Y Hong, G Zhang
+Radio Science 47 (05), 1-14
+5 2012
+Characterization of Schistosoma japonicum estrogen-related receptor beta like 1 and
+immunogenicity analysis of the recombinant protein
+X Wu, B Zhao, Y Hong, X Li, J Peng, J Zhang, F Wang, Y Shi, Z Fu, J Lin
+Experimental Parasitology 131 (3), 383-392
+5 2012
+A backscattering enhanced microwave canopy scattering model based on MIMICS
+X Shen, Y Hong, Q Qin, S Chen, T Grout
+AGU Fall Meeting Abstracts 2010, H33K-06
+5 2010
+栾胜基
+洪阳
+中国环境影响评价 (Eth) 中的公众参与⽥. 重庆环境科学, 28-29
+5 1999
+环境质量消费的经济学分析
+洪阳
+上海环境科学 17 (11), 11-13
+5 1998
+D. Irwin (2011). Satellite Remote Sensing and Hydrologic Modeling for Flood Inundation
+Mapping in Lake Victoria Basin: Implications for Hydrologic Prediction in Ungauged
+Basins
+SI Khan, Y Hong, J Wang, KK Yilmaz, JJ Gourley, RF Adler, ...
+IEEE Transnational Geoscience and Remote Sensing Journal 49, 85-95
+5
+Hydro-modeling the ecosystem impact of wastewater reuse under climate change: A case
+study in upper Red River basin, Oklahoma
+S Gao, Z Li, G Graves, HA Mattes, S Fathollahifard, J Vogel, TM Neeson, ...
+JAWRA Journal of the American Water Resources Association 60 (4), 865-878
+4 2024
+Future Heavy Rainfall and Flood Risks for Native Americans under Climate and
+Demographic Changes: A Case Study in Oklahoma
+Z Li, T Tsoodle, M Chen, S Gao, J Zhang, Y Wen, T Yang, F King, Y Hong
+Weather, Climate, and Society 16 (1), 143-154
+4 2024
+Examining impacts of policy, technology, and climate extremes on thermoelectric power
+production and river thermal pollution in the Midwest and Northeast of the United States
+J Zhang, M Chen, S Gao, Z Li, CJ Vörösmarty, B Fekete, A Miara, Y Hong
+Frontiers in Environmental Science 11, 1212211
+4 2023
+Evaluating the effects of downscaled climate projections on groundwater storage and
+simulated base-flow contribution to the North Fork Red River and Lake Altus,
+southwest …
+LG Labriola, JH Ellis, S Gangopadhyay, T Pruitt, PE Kirstsetter, Y Hong
+Hydrogeology Journal 28 (8), 2903-2916
+4 2020
+Faster-than-Nyquist DFT-S-OFDM over visible light communications
+Y Shao, Y Hong, S Gao, LK Chen
+2018 23rd Opto-Electronics and Communications Conference (OECC), 1-2
+4 2018
+Error analysis of ensemble multi-satellite precipitation datasets over the Tibetan Plateau
+R Liu, Y Ma, Y Yang, Z Han, G Tang, Q Liu, Y Hong
+2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS …
+4 2017
+Accounting for rainfall spatial variability in prediction of flash floods
+M Saharia, PE Kirstetter, JJ Gourley, Y Hong, HJ Vergara
+AGU Fall Meeting Abstracts 2016, H44B-05
+4 2016
+Machine learning predictions of flash floods
+RA Clark III
+4 2016
+Performance investigation of OCT precoding for MIMO-OFDM based indoor visible light
+communications
+Y Hong, LK Chen
+2016 18th International Conference on Transparent Optical Networks (ICTON), 1-4
+4 2016
+OCT precoding for OFDM-based indoor visible light communications
+Y Hong, LK Chen
+2016 21st OptoElectronics and Communications Conference (OECC) held jointly …
+4 2016
+Hydrological modeling and capacity building in the Republic of Namibia, B. Am. Meteorol.
+Soc., 98, 1697–1715
+RA Clark III, ZL Flamig, H Vergara, Y Hong, JJ Gourley, DJ Mandl, S Frye, ...
+4 2016
+The challenges and opportunities of hydrologic remote sensing in data-poor regions:
+Case study of Nile River Basin
+E Hasan, P Kirstetter, K Zhang, Y Hong
+AGU Fall Meeting Abstracts 2015, H51T-07
+4 2015
+Spatial and diurnal variability of monsoon systems assessed by TRMM rain rate over
+Indus Basin
+SI Khan, Y Hong, JJ Gourley, HK Huelsing, MU Khattak, HJ Vergara
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote …
+4 2015
+中国 GNSS-R 航空⻜⾏试验初步结果之⼀: ⼟壤湿度测量 (英⽂)
+万玮， ⽩伟华， 赵利⺠， ⻰笛， 孙越强， 孟祥⼴， 谌华， 崔喜爱， 洪阳
+科学通报: 英⽂版, 964-971
+4 2015
+Climate Change and Hydrological Hazards
+Y Hong, L Liu, L Qiao, P Adhikari
+Handbook of Engineering Hydrology, 69-86
+4 2014
+Real time monitoring of slope stability in eastern Oklahoma
+AB Cerato, Y Hong, X Yu, X He, W Tabet
+4 2014
+Quantification of spatial errors of precipitation rates and types from the TRMM
+precipitation radar (the latest successive V6 and V7) over the United States
+S Chen, P Kirstetter, Y Hong, JJ Gourley, J Zhang, K Howard, J Hu
+AGU Fall Meeting Abstracts 2012, H33C-1348
+4 2012
+Source identification of soil Cu, Zn, Pb, and Cd from anthropogenic activities by decision
+tree analysis in fuyang county, China
+L Qiu, M Gan, K Wang, J Deng, Y Hong, J Xu, W Zhu
+Fresenius Environmental Bulletin 21 (6), 1390-1398
+4 2012
+Observed and simulated hydroclimatology using distributed hydrologic model from in-situ
+and multi-satellite remote sensing datasets in Lake Victoria region in East Africa
+SI Khan, P Adhikari, Y Hong, H Vergara, T Grout, RF Adler, F Policelli, ...
+Hydrology and Earth System Sciences Discussions 7 (4), 4785-4816
+4 2010
+Application of satellite observations to manage natural disasters in the Lake Victoria Basin
+S Habib, F Policelli, D Irwin, T Korme, B Adler, Y Hong
+2009 IEEE International Geoscience and Remote Sensing Symposium 4, IV-21-IV-24
+4 2009
+Intraoperative monitoring for safety of total hip arthroplasty using third-generation
+cementing technique
+K ZHANG, Y Hong, LIU Yan, J LÜ
+Chinese medical journal 122 (2), 174-177
+4 2009
+Estimate gridded and time variant runoff curve numbers using satelliteremote sensing and
+geospatial data
+Y Hong, RF Alder, F Hossain, S Curtis, GJ Huffman
+Water Resour Res 43, 285-294
+4 2007
+Self-tuning utility-based controller for end-to-end congestion in the Internet
+Y Hong, OWW Yang
+2006 3rd International Conference on Broadband Communications, Networks and …
+4 2006
+Self-tuning pi rate controller for aqm router supporting best-effort traffic
+Y Hong, OWW Yang
+IEEE International Conference on Communications, 2005. ICC 2005. 2005 3 …
+4 2005
+MGP: a new 1-hourly 0.25?global precipitation product (2000–2020) based on multisource
+precipitation data fusion
+H Chen, D Wen, B Yong, JJ Gourley, L Wang, Y Hong
+Earth System Science Data Discussions 2023, 1-73
+3 2023
+Citizen Science at the Source of the Blue Nile: Promoting Public Participation in Science
+for Ensuring Food and Water Security in Ethiopia
+Z Dokou, FK Khadim, W Zhou, Z Flamig, M Moges, S Tilahun, M Azage, ...
+Authorea Preprints
+3 2022
+CREST/EF5 capacity building to enhance resilience to hydrodynamic disasters in
+emerging regions
+TL Yami, S Gao, M Chen, Z Li, L Labriola, C Wara, FZ Beshah, Y Hong
+African Journal of Environmental Science and Technology 15 (6), 230-242
+3 2021
+TRMM/GPM 和 Stage IV 降⽔产品在⼩流域⽔⽂模拟效⽤评估
+冯克鹏， ⽥军仓， 洪阳
+排灌机械⼯程学报 39 (4), 397-403
+3 2021
+The drought variability based on continuous days without available precipitation in
+Guizhou Province, southwest China
+NX Qin, JN Wang, Y Hong, QQ Lu, JL Huang, MH Liu, L Gao
+Water 13 (5), 660
+3 2021
+A remote sensing-based vacancy area index for estimating housing vacancy and Ghost
+Cities in China
+H Li, C Zeng, W Wan, Y Cui, Y Hong, W Fan
+IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium …
+3 2019
+Editorial for Special Issue “Remote Sensing Water Cycle: Theory, Sensors, Data, and
+Applications”
+W Wan, H Xie, E Hasan, Y Hong
+Remote Sensing 11 (10), 1210
+3 2019
+Can crowdsourcing support remote sensing image classification?
+H Li, H Yang, C Zeng
+2018 26th International Conference on Geoinformatics, 1-4
+3 2018
+Set-partitioned QAM Fast-OFDM with real-valued orthogonal circulant matrix transform
+pre-coding
+Z Hu, J Zhao, Y Hong, S Gao, CK Chan, LK Chen
+CLEO: QELS_Fundamental Science, JTu2A. 41
+3 2018
+Precipitation
+RR Ferraro, G Skofronick-Jackson, Y Hong, K Zhang
+Elsevier
+3 2018
+Inter-comparison of radar-based nowcasting schemes in the Jianghuai River Basin, China
+G Wang, Y Hong, L Liu, WK Wong, A Zahraei, V Lakshmanan
+Meteorological Applications 22 (3), 289-300
+3 2015
+CREST v2. 1 Refined by a Distributed Linear Reservoir Routing Scheme
+X Shen, Y Hong, K Zhang, Z Hao, D Wang
+AGU Fall Meeting Abstracts 2014, H33G-0918
+3 2014
+Proactive Approach to Transportation Resource Allocation Under Severe Winter Weather
+Emergencies
+B Balasundaram, STS Bukkapatnam, Z Kong, Y Hong
+Oklahoma Transportation Center
+3 2012
+SERVIR-Africa: Developing an integrated platform for floods disaster management in
+Africa
+D Macharia, T Korme, F Policelli, D Irwin, B Adler, Y Hong
+8th International Conference African Association of Remote Sensing of the …
+3 2010
+Imagery training in the teaching of the data structure curriculum
+D Rui, JT Thompson, Y Hong, Z Xing-sheng, L Ke-jing, NA Macintyre
+ACM SIGCSE Bulletin 40 (4), 92-94
+3 2008
+Evaluation of a Satellite-based Near Real-time Global Flood Prediction System
+KK Yilmaz, RF Adler, Y Hong, H Pierce
+Eos Trans. AGU 89 (53)
+3 2008
+Flood and landslide applications of high time resolution satellite rain products
+RF Adler, Y Hong, GJ Huffman
+International Precipitation Working Group
+3 2006
+Cloud patch-based Rainfall estimation using a satellite image classification approach
+Y Hong, K Hsu, S Sorooshian
+2nd Workshop of the International Precipitation Working Group, 1-9
+3 2005
+End-to-end PI congestion controller for best-effort traffic: single source case
+Y Hong, OWW Yang
+electronics letters 39 (5), 480-482
+3 2003
+论经济增⻓模式的转变
+洪阳
+未来与发展 19 (2), 7-11
+3 1998
+Triple Collocation of Ground-, Satellite-and Land Surface Model-Based Surface Soil
+Moisture Products in Oklahoma Part II: New Multi-Sensor Soil Moisture (MSSM) Product
+Z Hong, HA Moreno, LV Alvarez, Z Li, Y Hong
+Remote Sensing 15 (13), 3450
+2 2023
+基于 GPU 加速的⽔⽂模型参数率定
+阚光远， 洪阳， 梁珂， 何晓燕， 丁留谦， 张⼤伟
+⼈⺠⻓江 50 (5), 65-69
+2 2019
+Flood monitoring system using distributed hydrologic modeling for Indus River Basin.
+Indus River Basin: Water Security and Sustainability, SI Khan and TE Adams III, Eds
+SI Khan, Z Flamig, Y Hong
+Elsevier
+2 2019
+基于 Triple-collocation ⽅法的多源降⽔产品
+李昶明， 唐国强， 洪阳
+2 2018
+An Investigation on the Spatial Variability of Manning Roughness Coefficients in
+Continental-scale River Routing Simulations
+X Luo, Y Hong, X Lei, LR Leung, HY Li, A Getirana
+AGU Fall Meeting Abstracts 2017, EP21D-1877
+2 2017
+Evaluation and prediction of groundwater storage changes in Beijing under the impacts of
+the South to North Water Diversion Project and climate change using ground
+observations …
+D Long, Y Wada, J Zhao, Y Hong, D Liu, L You
+AGU Fall Meeting Abstracts 2017, H13L-02
+2 2017
+Rapid-response flood mapping during Hurricanes Harvey, Irma and Maria by the Global
+Flood Partnership (GFP)
+S Cohen, L Alfieri, GR Brakenridge, E Coughlan, JF Galantowicz, Y Hong, ...
+AGU Fall Meeting Abstracts 2017, NH23E-2822
+2 2017
+Characterization and expression pattern of a novel Frizzled 8 receptor gene in
+Schistosoma japonicum
+J Xu, X Feng, Y Jia, Y Hong, H Li, K Lu, J Lin, C Yuan, M Song
+Parasitology International 66 (5), 522-528
+2 2017
+Channel-independent signal processing for high-speed VLC systems
+LK Chen, Y Hong
+Conference on Lasers and Electro-Optics/Pacific Rim, s2340
+2 2017
+Seasonal to interannual variability of satellite-based precipitation estimates in the Pacific
+Ocean associated with ENSO from 1998 to 2014
+X Hou, D Long, Y Hong, H Xie
+Remote Sensing 8 (10), 833
+2 2016
+中国洪涝滑坡灾害监测和动⼒数值预报系统的研究
+汪君， 王会军， 洪阳
+Qi xiang chu ban she
+2 2016
+Distribution characteristics of deposited eggs and pathological changes in viscera of New
+Zealand white rabbits infected with Schistosoma japonicum at different time
+Z Deng-Yun, XU Rui, LIN Jiao-Jiao, LIU Ke, H Yang, LI Hao, ...
+Chinese Journal of Schistosomiasis Control 26 (6), 636
+2 2014
+Performance and Uncertainty Analysis of Precipitation Retrievals Derived from Dualfrequency
+Precipitation Radar and Microwave Imager onboard GPM over CONUS
+S Chen, Y Hong, A Behrangi, Y Qi, J Hu
+AGU Fall Meeting Abstracts 2014, H51U-05
+2 2014
+Restoration of missing dry-bulb temperature data with long-term gaps (up to 60 days) for
+use in building performance monitoring and analysis—Part II
+J Hu, OT Ogunsola, L Song, RA McPherson, M Zhu, Y Hong, S Chen
+HVAC&R Research 20 (6), 606-615
+2 2014
+Three-dimensional visualization of the micro-structure and mechanism of
+magnetorheological fluids using digital micro-holography
+QK WANG, H Yang, G Li
+Chinese Journal of Lasers 4 (4), 205-213
+2 2014
+Relationships between Return Period and Flash Flooding in the United States
+JM Erlingis, JJ Gourley, Y Hong
+AGU Fall Meeting Abstracts 2013, H51Q-04
+2 2013
+Measurements of the characteristics of transparent material using digital holography
+D Yu, S Wenbin, Y Hong, Y Yan
+Advances in Materials Science and Engineering 2013 (1), 598737
+2 2013
+Toward a research framework to bridge cross-platform error characterization of
+spaceborne passive/active sensors using NOAA/NSSL ground radar-based national
+mosaic QPE products …
+P Kirstetter, Y Hong, JJ Gourley, Q Cao, M Schwaller, WA Petersen, ...
+AGU Fall Meeting Abstracts 2012, H24A-08
+2 2012
+Identification and preliminary analysis of a novel full? length cDNA encoding retinoid X
+receptor 2 from Schistosoma japonicum
+QIU Chun-Hui, LIU Sheng-Fa, H Yang, FU Zhi-Qiang, Z Min, WEI Mei-Mei, ...
+Chinese Journal of Schistosomiasis Control 24 (4), 440
+2 2012
+Comparative study on Schistosoma japonicum infection in different permissive animal
+hosts
+JM Yang, CX Yuan, XG Feng, ZQ Fu, YJ Shi
+Chinese Journal of Zoonoses 28, 1207-1211
+2 2012
+Analyzing past and predicting future drought with comprehensive drought indices for
+Arkansas-Red River Basin
+L Liu, Y Hong, JE Hocker
+2 2011
+Pixel-based very short-term precipitation forecasting for hydrological application
+A Zahraei, JJ Gourley, V Lakshmanan, Y Hong, K Hsu, S Sorooshian
+AGU Fall Meeting Abstracts 2010, H21E-1111
+2 2010
+Evaluation on the immuno-protective efficacy of the recombinant antigen SjPGAM-SjEnol
+against Schistosoma japonicum in mice
+FJ Guo, Y Wang, Y Li, JB Peng, Y Hong, CH Qiu, S Chen, ZQ Fu, YJ Shi, ...
+Zhongguo ji Sheng Chong xue yu ji Sheng Chong Bing za zhi= Chinese Journal …
+2 2010
+Update on NASA's Real-time Global Flood Monitoring System: Recent Improvements and
+Examples
+KK Yilmaz, R Adler, Y Hong, J Wang, F Policelli, Y Tian, H Pierce
+EGU General Assembly Conference Abstracts, 7798
+2 2010
+Cross-Calibration of Landsat-5 TM and Multi-Spectral CBERS-02B CCD Sensors Based
+on Tandem Data Sets for Southern China
+S Chen, C Long, H Lin, Y Hong, K Yeung, JJ Hu
+2 2010
+The TRMM Multisatellite Precipitation Analysis (TMPA): Quasi-global, multiyear,
+combined-sensor precipitation estimates at fine scales./. Hydrometeor., 8, 38-55
+GJ Huffman, DT Bolvin, EJ Nelkin, DB Wolff, RF Adler, G Gu, Y Hong, ...
+2 2007
+Adaptive controller design for Internet traffic: a control theoretical approach
+Y Hong
+University of Ottawa (Canada)
+2 2006
+Self-tuning multiloop PI rate controller for an MIMO AQM router with interval gain margin
+assignment
+Y Hong, OWW Yang
+HPSR. 2005 Workshop on High Performance Switching and Routing, 2005., 401-405
+2 2005
+世纪的中国⽔安全
+洪阳
+环境保护 10, 29-31
+2 1999
+中国 21 世纪的⽔安全问题
+洪阳， 滦胜基
+中国环境管理 4 (4)
+2 1998
+AQUAH: Automatic Quantification and Unified Agent in Hydrology
+S Yan, Z Li, S Zhu, Y Wen, M Zhang, M Chen, J Cao, Y Hong
+Proceedings of the IEEE/CVF International Conference on Computer Vision …
+1 2025
+Can the re-infiltration process be ignored for flood inundation mapping and prediction
+during extreme storms?
+Z Li, M Chen, S Gao, B Wen, J Gourley, T Yang, R Kolar, Y Hong
+Authorea Preprints
+1 2021
+Neoadjuvant PD-1 inhibitor combines with chemotherapy in resectable squamous cell
+non-small cell lung cancer
+Y Feng, W Sun, J Zhang, Y Wang, J Chen, X Liu, L Wang, S Li, C LV, F Lu, ...
+1 2020
+Spatiotemporal dynamics of terrestrial water storage trends in the Nile River basin
+E Hasan, A Tarhule, Y Hong
+AGU Fall Meeting Abstracts 2019, H43M-2241
+1 2019
+⾃寻优最近邻算法估算有限⽓象数据区潜在蒸散量.
+冯克鹏， ⽥军仓， 洪阳
+Transactions of the Chinese Society of Agricultural Engineering 35 (21)
+1 2019
+Calibrated VIC model parameters over CONUS
+Y Yang, M Pan, H Beck, C Fisher, RE Beighley, SC Kao, Y Hong, E Wood
+1 2019
+Recognizing global reservoirs from Landsat 8 imageries: A Deep Learning Approach
+W Fang, C Wang, X Chen, W Wan, H Li, S Zhu, Y Fang, B Liu, Y Hong
+AGU Fall Meeting Abstracts 2018, H31K-2071
+1 2018
+On the Performance of Probabilistically-shaped CAP over Optical Wireless
+Communications
+Y Hong, T Song, Y Shao, LK Chen, C Lim, KL Lee, A Nirmalathas, ...
+2018 23rd Opto-Electronics and Communications Conference (OECC), 1-2
+1 2018
+Monolithic Dual-polarization Silicon Modulator for 180 Gb/s DMT Signal Transmission
+X Wu, Y Hong, Y Tong, L Chang, W Zhou, LK Chen, JE Bowers, HK Tsang
+Optical Fiber Communication Conference, W4D. 3
+1 2018
+基于 Triple-collocation ⽅法的多源降⽔产品评估
+李昶明， 唐国强， 洪阳
+⽔利⽔电技术 49 (8), 19-28
+1 2018
+Non-Orthogonal Multiple Access in Visible Light Communications with Adaptive Loading
+X Guan, Y Hong, CCK Chan
+Proceedings of the Opt. Fiber Commun. Conf. Exhib.(OFC), 1-3
+1 2018
+Evaluation of multiple precipitation products across Mainland China using the triple
+collocation method without ground truth
+G Tang, C Li, Y Hong, D Long
+AGU Fall Meeting Abstracts 2017, H21E-1506
+1 2017
+Experimental investigation on impacts of PAPR reduction schemes in OFDM-based VLC
+systems
+H Lu, Y Hong, LK Chen, J Wang
+2017 Opto-Electronics and Communications Conference (OECC) and Photonics …
+1 2017
+Extreme rainfall-induced landslide changes based on landslide susceptibility in China,
+1998-2015
+W Li, C Liu, Y Hong
+EGU general assembly conference abstracts, 6250
+1 2017
+两种基于雷达的临近预报算法在赣江流域的应⽤
+李娜， 勾亚彬， 唐国强， 赵平， 洪阳
+⽓象科学 37 (4), 466-477
+1 2017
+Development of a Novel Road Ice Detection and Road Closure System: Modeling,
+Observations, and Risk Communication
+BA Toms, JB Basara, Y Hong, STS Bukkapatman, T Liu, N Wang, H Yu
+American Meteorological Society Meeting Abstracts 97, 3B. 4
+1 2017
+On Practical Considerations for Designing Indoor Visible Light Communication Systems
+J Chen, X You, Y Hong, H Zheng, C Yu
+Asia Communications and Photonics Conference, AS2C. 5
+1 2016
+基于天⽓雷达的⻓江三峡暴⾬临近预报⽅法及其精度评估
+杨⽂宇， 李哲， 倪⼴恒， 洪阳
+清华⼤学学报: ⾃然科学版, 604-611
+1 2015
+Urban Flooding and Future Climate: Case Studies in Oklahoma and Texas
+M Meo, S Greene, Y Hong, J Looper, B Vieux, A Goodin
+American Meteorological Society Meeting Abstracts 95, 32
+1 2015
+Remote Sensing Technologies for Multi-Scale Hydrological Studies: Advances and
+Perspectives
+SI Khan, NB Chang, Y Hong, X Xue, Y Zhang
+Remote Sensing Handbook, Volume V, 37-64
+1 2015
+Mapping of gold mineralization alteration zones in central Eastern Desert Egypt using
+spectral angular mapper and aeromagnetic data
+E Hasan, T Fagin, Z El Alfy, Y Hong
+AGU Fall Meeting Abstracts, NS43A-3879
+1 2014
+Systematical evaluation of VPR-Identification and Enhancement (VPR-IE) approach for
+different precipitation types
+Y Wen, Y Hong, P Kirstetter, Q Cao, JJ Gourley, J Zhang, X Xue
+Remote Sensing of the Atmosphere, Clouds, and Precipitation V 9259, 41-49
+1 2014
+Black ice detection and road closure and warning control system for Oklahoma
+T Liu, N Wang, H Yu, J Basara, Y Hong, S Bukkapatnam
+1 2014
+Improving Flood Forecasting Skill with the Ensemble Kalman Filter
+H Vergara, Y Hong, J Gourley
+Revista de Tecnolog韆 13 (1), 9-27
+1 2014
+Impact of Uncertainty Characterization of Satellite Rainfall Inputs and Model Parameters
+on Hydrological Data Assimilation with the Ensemble Kalman Filter for Flood Prediction
+HJ Vergara, P Kirstetter, Y Hong, JJ Gourley, X Wang
+AGU Fall Meeting Abstracts 2013, H51I-1306
+1 2013
+A Global Hydrological Ensemble Forecasting System: Uncertainty Quantification and Data
+Assimilation
+Y Hong, Y Zhang, X Xue, X Wang, JJ Gourley, P Kirstetter
+AGU Fall Meeting Abstracts 2012, H44E-03
+1 2012
+11 Multispectral Satellite Data for Flood Monitoring and Inundation Mapping
+SI Khan, Y Hong, J Wang
+MULTI HYDRO REMO, 251
+1 2012
+17 Global Soil Moisture Estimation Using Microwave Remote Sensing
+Y Hong, SI Khan, C Liu, Y Zhang
+MULTI HYDRO REMO, 399
+1 2012
+Analyzing projected changes and trends of temperature and precipitation in the southern
+US from 16 downscaled global climate models under different emission scenarios
+L Liu, Y Hong, EJ Hocker, AM Shafer, ML Carter, JJ Gourley, ...
+Theor Appl Climatol. doi 10
+1 2012
+Quantifying changes in extreme precipitation at Houston and Oklahoma city by 2041-2065
+using the Canadian Regional Climate Model (CRCM)
+DJ Brouillette, Y Hong, L Liu
+92nd American Meteorological Society Annual Meeting
+1 2012
+Evolving TRMM-based multi-satellite real-time precipitation estimation methods: Their
+impacts on hydrological prediction using the Variable Infiltration Capacity model in a …
+B Yong, L Ren, Y Hong, JJ Gourley
+AGU Fall Meeting Abstracts 2011, H43C-1232
+1 2011
+Incorporating NASA space-borne precipitation research products into National Mosaic
+QPE operational system for improved precipitation measurements
+Y Wen, Y Hong, G Zhang, S Chen, J Zhang, JJ Gourley
+2011 IEEE RadarCon (RADAR), 995-999
+1 2011
+Remote sensing applications satellite remote sensing and hydrologic modeling for flood
+inundation mapping in lake victoria basin: implications for hydrologic prediction in …
+SI Khan, Y Hong, J Wang, KK Yilmaz, JJ Gourley, RF Adler, ...
+IEEE Transactions on Geoscience and Remote Sensing 49 (1), 85
+1 2011
+Integrating information from multiple sources for improved precipitation products
+P Xie, Y Hong
+From the Section President, 25
+1 2011
+Hydrologic evaluation of the TRMM-based multi-satellite precipitation analysis data at
+basin scale
+B Yong, L Ren, Y Hong, JJ Gourley
+AGU Fall Meeting Abstracts 2010, H21E-1108
+1 2010
+Evaluating flood prediction skill of TMPA rainfall products over Tar River basin using a
+distributed hydrologic model
+HJ Vergara, Y Hong, JJ Gourley, Y Zhang, EN Anagnostou
+AGU Fall Meeting Abstracts 2010, H21E-1104
+1 2010
+Creating synergy between ground and space-based precipitation measurements
+JJ Gourley, Y Hong, WA Petersen, K Howard, Z Flamig, Y Wen
+AGU Fall Meeting Abstracts 2010, H12C-05
+1 2010
+Coupled ADCIRC Model Systems Part I: HYCOM/ADCIRC Part II:
+HLRDHM/SWAN/ADCIRC
+RL Kolar, KM Dresback, CA Blain, R Luettich, SV Cooten, JJ Gourley, ...
+AGU Fall Meeting Abstracts 2010, OS21E-1551
+1 2010
+Evaluation of Physically-based Model’s Predictive Skill for Hurricane-triggered Landslides:
+Case Study in North Carolina and Indonesia
+Z Liao, Y Hong, H Fukuoka, K Sassa
+AGU Fall Meeting Abstracts 2009, NH44A-03
+1 2009
+Spatial Patterns and Temporal Trends of Global Floods during the TRMM Era (1998-
+2008)
+J Wang, Y Hong, P Adhikari, RF Adler
+AGU Fall Meeting Abstracts 2009, H14E-04
+1 2009
+Rainfall-induced landslide cataloging for hazard assessment
+Y Hong, DB Kirschbaum, RF Adler
+AGU Fall Meeting Abstracts 2009, H21D-0883
+1 2009
+Evaluation of a satellite-based near real-time global flood prediction system.
+KK Yilmaz, RF Adler, Y Hong, HF Pierce
+1 2009
+Prediction of the spatiotemporal distribution of landslide: Integrated landslide susceptibility
+zoning techniques and real-time satellite rainfall
+Z Chen, JM Zhang, K Ho, FQ Wu
+Landslides and Engineered Slopes. From the Past to the Future, Two Volumes+ …
+1 2008
+P閚urie d'eau, transfert des eaux agricoles et 閝uit?sociale dans le bassin de la rivi鑢e
+Chaobai
+Z Yuan, Y Hong
+Perspectives chinoises 2008 (2008/2), 49-59
+1 2008
+Mechanism of landslides triggered by the 2008 Wenchuan earthquake and subsequent
+rainstorm-induced debris flow
+H Fukuoka, P Cui, Y Hong
+Investigation report of the 2008 Wenchuan Earthquake, China, Grant-in-Aid …
+1 2008
+An experimental global monitoring system for rainfall-triggered landslides using satellite 1 2006
+A conceptual framework for space-borne flood detection/monitoring system
+Y Hong, R Adler, G Huffman, A Negri
+AGU Spring Meeting Abstracts 2007, H32A-03
+1 2006
+Adaptive multiloop PI rate-based controller design for a MIMO IP router based on phase
+margin
+Y Hong, OWW Yang
+GLOBECOM'05. IEEE Global Telecommunications Conference, 2005. 2, 5 pp.
+1 2005
+Self-tuning PI rate controller for best-effort traffic with interval phase margin assignment
+Y Hong, OWW Yang
+International Journal of Internet Protocol Technology 1 (2), 86-93
+1 2005
+Design of TCP traffic controllers for AQM routers based on gain margin specification
+Y Hong, Q Chen
+SIMULATION SERIES 35 (4), 452-457
+1 2003
+Joanne Simpson Special Issue on the Tropical Rainfall Measuring Mission (TRMM)-
+ARTICLES-The Status of the Tropical Rainfall Measuring Mission (TRMM) after Two
+Years in Orbit
+C Kummerow, J Simpson, O Thiele, W Barnes, ATC Chang, E Stocker, ...
+Journal of Applied Meteorology-Boston 39 (12), 1965-1982
+1 2000
+Molecular analysis of heterochronic gene lin-14 and developmental cell cycle control in
+Caenorhabditis elegans
+Y Hong
+Dartmouth College
+1 1999
+Cross-Examining Precipitation Products by Rain Gauge
+M Chen, Y Huang, Z Li, AJM Larico, M Xue, Y Hong, XM Hu, HM Novoa, ...
+Remote Sensing, and WRF Simulations over a South American Region across the …
+1
